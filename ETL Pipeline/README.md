@@ -42,12 +42,12 @@ The [**transform.py**](python_files/transform.py) script cleans and prepares the
 
 ### Load
 
-The **load.py** script creates the necessary tables in the PostgreSQL database and loads the transformed data into the appropriate tables. It uses SQLAlchemy to connect to the PostgreSQL database and pandas to load the DataFrames into the database.
+The [**load.py**](python_files/load.py) script creates the necessary tables in the PostgreSQL database and loads the transformed data into the appropriate tables. It uses SQLAlchemy to connect to the PostgreSQL database and pandas to load the DataFrames into the database.
 
 ### Drop Tables
 
-The **drop_tables.py** script drops all tables in the PostgreSQL database to ensure that new data can be loaded without conflicts. It runs a `DROP TABLE` SQL command for each table in the database.
+The [**drop_tables.py**](python_files/drop_tables.py) script drops all tables in the PostgreSQL database to ensure that new data can be loaded without conflicts. It runs a `DROP TABLE` SQL command for each table in the database.
 
 ### ETL Pipeline
 
-The **pipeline.py** file the entire ETL process by calling the `extract()`, `transform()`, and `load()` functions. It also uses the `drop_all_tables()` function to clear the database before starting the process.
+The [**pipeline.py**](python_files/pipeline.py) file the entire ETL process by calling the `extract()`, `transform()`, and `load()` functions. It also uses the `drop_all_tables()` function to clear the database before starting the process.
