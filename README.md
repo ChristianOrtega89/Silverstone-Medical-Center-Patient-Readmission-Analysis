@@ -65,7 +65,7 @@ The full ETL process consists of the following steps:
 - **Transform**: Processes the data, cleans it, and prepares it for loading.
 - **Load**: Loads the data into a PostgreSQL database.
 
-For the full pipeline documentation, check out the [Pipeline README](./pipeline/README.md).
+For the full pipeline documentation, check out the [Pipeline README](/ETL Pipeline/README.md).
 
 ### Data Exploration & SQL Analysis
 Using **SQL**, I analyzed key factors influencing readmissions:
