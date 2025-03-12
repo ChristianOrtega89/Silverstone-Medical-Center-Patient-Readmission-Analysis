@@ -1,0 +1,1051 @@
+readmission_id,patient_id,original_admission_id,readmission_date,readmission_reason,diagnosis_code,department
+1,1863,5326,2024-06-17,Medication Non-Adherence,Endocrine & Metabolic Disorders,Cardiology
+2,1645,3642,2024-10-22,Complications from Treatment,Musculoskeletal & Injury-Related Issues,Neurology
+3,623,5262,2024-12-27,Disease Progression,Gastrointestinal Disorders,General Medicine
+4,4799,3589,2024-03-29,Disease Progression,Mental Health & Substance Abuse,Neurology
+5,3877,1768,2024-01-14,Uncontrolled Symptoms,Gastrointestinal Disorders,General Medicine
+6,653,1746,2024-04-17,Disease Progression,Mental Health & Substance Abuse,Cardiology
+7,4697,4728,2024-08-15,Disease Progression,Mental Health & Substance Abuse,ICU
+8,647,1472,2024-01-16,Medication Non-Adherence,Infectious Diseases,Cardiology
+9,2575,5710,2024-09-01,Disease Progression,Neurological Conditions,ICU
+10,4120,2911,2024-07-18,Infection or New-Onset Illness,Mental Health & Substance Abuse,Neurology
+11,4601,4163,2024-08-19,Medication Non-Adherence,Endocrine & Metabolic Disorders,General Medicine
+12,3209,1079,2024-05-06,Complications from Treatment,Musculoskeletal & Injury-Related Issues,General Medicine
+13,2188,263,2024-04-26,Medication Non-Adherence,Respiratory Diseases,Orthopedics
+14,807,6724,2024-05-18,Uncontrolled Symptoms,Infectious Diseases,General Medicine
+15,2828,3691,2024-11-22,Medication Non-Adherence,Cardiovascular Conditions,General Medicine
+16,2205,1005,2024-09-18,Infection or New-Onset Illness,Endocrine & Metabolic Disorders,Neurology
+17,1591,347,2024-06-09,Complications from Treatment,Endocrine & Metabolic Disorders,Orthopedics
+18,998,3754,2024-10-31,Complications from Treatment,Musculoskeletal & Injury-Related Issues,Orthopedics
+19,3924,3481,2024-04-17,Complications from Treatment,Gastrointestinal Disorders,General Medicine
+20,1711,6553,2024-04-29,Infection or New-Onset Illness,Gastrointestinal Disorders,Cardiology
+21,576,301,2024-08-31,Infection or New-Onset Illness,Musculoskeletal & Injury-Related Issues,Orthopedics
+22,2007,1195,2024-12-09,Complications from Treatment,Endocrine & Metabolic Disorders,Cardiology
+23,4647,2075,2024-10-15,Medication Non-Adherence,Musculoskeletal & Injury-Related Issues,Cardiology
+24,2666,5550,2024-05-12,Infection or New-Onset Illness,Mental Health & Substance Abuse,Cardiology
+25,2799,129,2024-08-06,Disease Progression,Cardiovascular Conditions,General Medicine
+26,2627,6198,2024-01-30,Disease Progression,Neurological Conditions,Orthopedics
+27,2963,3153,2024-12-03,Medication Non-Adherence,Neurological Conditions,Neurology
+28,3519,6449,2024-12-10,Medication Non-Adherence,Infectious Diseases,ICU
+29,62,3780,2024-12-25,Infection or New-Onset Illness,Endocrine & Metabolic Disorders,General Medicine
+30,2606,6675,2024-06-09,Infection or New-Onset Illness,Mental Health & Substance Abuse,ICU
+31,2044,2477,2024-10-30,Medication Non-Adherence,Mental Health & Substance Abuse,ICU
+32,1521,1023,2024-10-13,Infection or New-Onset Illness,Endocrine & Metabolic Disorders,Orthopedics
+33,3244,5245,2024-01-29,Infection or New-Onset Illness,Cardiovascular Conditions,General Medicine
+34,4657,1219,2024-11-05,Medication Non-Adherence,Infectious Diseases,Cardiology
+35,2876,1043,2024-06-12,Infection or New-Onset Illness,Endocrine & Metabolic Disorders,ICU
+36,3943,6414,2024-11-14,Complications from Treatment,Musculoskeletal & Injury-Related Issues,Cardiology
+37,2275,324,2024-01-07,Infection or New-Onset Illness,Gastrointestinal Disorders,Orthopedics
+38,4786,3486,2024-08-10,Disease Progression,Neurological Conditions,Cardiology
+39,667,6193,2024-02-18,Complications from Treatment,Infectious Diseases,Cardiology
+40,2315,5382,2024-05-27,Disease Progression,Gastrointestinal Disorders,Orthopedics
+41,184,6865,2024-07-31,Complications from Treatment,Cardiovascular Conditions,Neurology
+42,4639,4828,2024-03-06,Disease Progression,Endocrine & Metabolic Disorders,General Medicine
+43,2241,5419,2024-12-21,Complications from Treatment,Musculoskeletal & Injury-Related Issues,ICU
+44,3533,681,2024-08-22,Complications from Treatment,Respiratory Diseases,Cardiology
+45,1621,6729,2024-07-26,Disease Progression,Musculoskeletal & Injury-Related Issues,Cardiology
+46,2391,2441,2024-03-31,Medication Non-Adherence,Respiratory Diseases,Neurology
+47,4212,2991,2024-06-20,Medication Non-Adherence,Cardiovascular Conditions,General Medicine
+48,1016,1071,2024-01-19,Uncontrolled Symptoms,Endocrine & Metabolic Disorders,Orthopedics
+49,2337,2090,2024-07-09,Uncontrolled Symptoms,Mental Health & Substance Abuse,Orthopedics
+50,4068,6548,2024-07-28,Infection or New-Onset Illness,Respiratory Diseases,Cardiology
+51,2318,6686,2024-03-09,Uncontrolled Symptoms,Gastrointestinal Disorders,Cardiology
+52,3094,5893,2024-01-04,Medication Non-Adherence,Respiratory Diseases,Neurology
+53,2714,1658,2024-06-12,Medication Non-Adherence,Infectious Diseases,Orthopedics
+54,4955,5142,2024-04-17,Complications from Treatment,Musculoskeletal & Injury-Related Issues,Neurology
+55,4107,2617,2024-12-03,Infection or New-Onset Illness,Endocrine & Metabolic Disorders,Orthopedics
+56,173,120,2024-11-06,Infection or New-Onset Illness,Respiratory Diseases,Cardiology
+57,648,6367,2024-07-23,Uncontrolled Symptoms,Cardiovascular Conditions,ICU
+58,1494,371,2024-11-26,Disease Progression,Musculoskeletal & Injury-Related Issues,General Medicine
+59,3406,259,2024-08-07,Complications from Treatment,Respiratory Diseases,General Medicine
+60,4274,865,2024-03-28,Medication Non-Adherence,Musculoskeletal & Injury-Related Issues,Cardiology
+61,564,1228,2024-12-09,Infection or New-Onset Illness,Mental Health & Substance Abuse,ICU
+62,2197,3803,2024-02-19,Medication Non-Adherence,Endocrine & Metabolic Disorders,ICU
+63,227,2716,2024-10-12,Uncontrolled Symptoms,Respiratory Diseases,Cardiology
+64,4242,4026,2024-03-29,Infection or New-Onset Illness,Cardiovascular Conditions,Cardiology
+65,1418,5586,2024-06-01,Disease Progression,Infectious Diseases,General Medicine
+66,4790,4327,2024-11-30,Medication Non-Adherence,Gastrointestinal Disorders,Cardiology
+67,4314,6899,2024-10-29,Uncontrolled Symptoms,Gastrointestinal Disorders,Orthopedics
+68,3977,608,2024-07-30,Complications from Treatment,Mental Health & Substance Abuse,General Medicine
+69,3884,5937,2024-11-25,Disease Progression,Musculoskeletal & Injury-Related Issues,Orthopedics
+70,1768,258,2024-08-18,Disease Progression,Cardiovascular Conditions,Neurology
+71,2874,93,2024-10-03,Disease Progression,Infectious Diseases,Orthopedics
+72,2039,5360,2024-07-02,Complications from Treatment,Mental Health & Substance Abuse,ICU
+73,1779,6849,2024-08-29,Uncontrolled Symptoms,Mental Health & Substance Abuse,General Medicine
+74,458,561,2024-01-26,Uncontrolled Symptoms,Gastrointestinal Disorders,Neurology
+75,2520,464,2024-01-04,Disease Progression,Gastrointestinal Disorders,ICU
+76,3255,5836,2024-03-31,Uncontrolled Symptoms,Neurological Conditions,Orthopedics
+77,4269,1971,2024-02-06,Infection or New-Onset Illness,Mental Health & Substance Abuse,Neurology
+78,753,874,2024-04-17,Uncontrolled Symptoms,Mental Health & Substance Abuse,General Medicine
+79,3448,4800,2024-03-27,Disease Progression,Neurological Conditions,Orthopedics
+80,3794,4778,2024-01-10,Infection or New-Onset Illness,Musculoskeletal & Injury-Related Issues,General Medicine
+81,4176,3209,2024-09-18,Uncontrolled Symptoms,Neurological Conditions,ICU
+82,4706,5280,2024-11-28,Disease Progression,Infectious Diseases,Orthopedics
+83,4816,1222,2024-05-22,Complications from Treatment,Respiratory Diseases,Neurology
+84,3694,4484,2024-11-29,Medication Non-Adherence,Musculoskeletal & Injury-Related Issues,Neurology
+85,2137,1398,2024-05-20,Infection or New-Onset Illness,Mental Health & Substance Abuse,ICU
+86,3073,5118,2024-05-21,Infection or New-Onset Illness,Musculoskeletal & Injury-Related Issues,Cardiology
+87,4070,2371,2024-08-08,Infection or New-Onset Illness,Gastrointestinal Disorders,Orthopedics
+88,1188,3781,2024-10-24,Infection or New-Onset Illness,Mental Health & Substance Abuse,Orthopedics
+89,434,1118,2024-12-13,Disease Progression,Mental Health & Substance Abuse,Orthopedics
+90,171,92,2024-11-21,Uncontrolled Symptoms,Respiratory Diseases,General Medicine
+91,438,6211,2024-04-06,Uncontrolled Symptoms,Endocrine & Metabolic Disorders,Neurology
+92,754,3016,2024-06-02,Disease Progression,Musculoskeletal & Injury-Related Issues,Orthopedics
+93,3029,2219,2025-01-01,Uncontrolled Symptoms,Neurological Conditions,Orthopedics
+94,572,3819,2024-10-22,Medication Non-Adherence,Cardiovascular Conditions,Cardiology
+95,3365,4842,2024-04-17,Medication Non-Adherence,Mental Health & Substance Abuse,Orthopedics
+96,4154,1731,2024-08-25,Infection or New-Onset Illness,Respiratory Diseases,Neurology
+97,467,4797,2024-02-28,Disease Progression,Gastrointestinal Disorders,ICU
+98,2244,4668,2024-11-02,Infection or New-Onset Illness,Neurological Conditions,Orthopedics
+99,3958,2039,2024-02-25,Disease Progression,Musculoskeletal & Injury-Related Issues,Orthopedics
+100,716,2830,2024-07-23,Infection or New-Onset Illness,Neurological Conditions,Cardiology
+101,1642,4218,2024-11-15,Infection or New-Onset Illness,Musculoskeletal & Injury-Related Issues,ICU
+102,1816,5230,2024-09-15,Uncontrolled Symptoms,Respiratory Diseases,Orthopedics
+103,491,2114,2024-01-18,Uncontrolled Symptoms,Respiratory Diseases,Neurology
+104,4518,2315,2024-01-07,Disease Progression,Mental Health & Substance Abuse,Neurology
+105,2665,1590,2024-09-20,Disease Progression,Endocrine & Metabolic Disorders,ICU
+106,4600,6289,2024-11-16,Medication Non-Adherence,Mental Health & Substance Abuse,General Medicine
+107,4255,423,2024-07-25,Infection or New-Onset Illness,Infectious Diseases,Cardiology
+108,4644,5905,2024-12-12,Disease Progression,Mental Health & Substance Abuse,General Medicine
+109,2491,5831,2024-03-14,Complications from Treatment,Neurological Conditions,Cardiology
+110,1027,6970,2024-03-01,Disease Progression,Endocrine & Metabolic Disorders,ICU
+111,3775,57,2024-10-16,Infection or New-Onset Illness,Musculoskeletal & Injury-Related Issues,Orthopedics
+112,547,5772,2024-12-23,Uncontrolled Symptoms,Neurological Conditions,Neurology
+113,248,4696,2024-01-29,Medication Non-Adherence,Endocrine & Metabolic Disorders,ICU
+114,3724,936,2024-05-31,Infection or New-Onset Illness,Mental Health & Substance Abuse,Orthopedics
+115,1262,2489,2024-06-21,Disease Progression,Cardiovascular Conditions,Neurology
+116,1913,364,2024-01-07,Complications from Treatment,Respiratory Diseases,ICU
+117,3932,6995,2024-07-14,Disease Progression,Cardiovascular Conditions,ICU
+118,1105,216,2024-01-03,Infection or New-Onset Illness,Cardiovascular Conditions,Orthopedics
+119,327,3746,2024-02-06,Disease Progression,Musculoskeletal & Injury-Related Issues,ICU
+120,2211,45,2024-02-15,Medication Non-Adherence,Infectious Diseases,Orthopedics
+121,3382,481,2024-03-11,Uncontrolled Symptoms,Mental Health & Substance Abuse,Orthopedics
+122,3979,130,2024-04-04,Medication Non-Adherence,Musculoskeletal & Injury-Related Issues,General Medicine
+123,992,5155,2024-02-05,Complications from Treatment,Neurological Conditions,Orthopedics
+124,4963,995,2024-03-29,Infection or New-Onset Illness,Mental Health & Substance Abuse,ICU
+125,2995,3709,2024-01-27,Medication Non-Adherence,Musculoskeletal & Injury-Related Issues,Neurology
+126,4604,4464,2024-02-21,Infection or New-Onset Illness,Mental Health & Substance Abuse,General Medicine
+127,3103,6861,2024-07-16,Disease Progression,Gastrointestinal Disorders,ICU
+128,4350,3210,2024-07-01,Complications from Treatment,Mental Health & Substance Abuse,General Medicine
+129,3722,3999,2024-09-18,Complications from Treatment,Respiratory Diseases,Orthopedics
+130,4679,5940,2024-01-14,Complications from Treatment,Endocrine & Metabolic Disorders,Cardiology
+131,2748,3860,2024-11-23,Infection or New-Onset Illness,Respiratory Diseases,Cardiology
+132,1082,3339,2024-09-22,Medication Non-Adherence,Cardiovascular Conditions,Orthopedics
+133,876,1730,2024-05-09,Disease Progression,Mental Health & Substance Abuse,General Medicine
+134,2429,1114,2024-12-22,Disease Progression,Cardiovascular Conditions,Neurology
+135,948,4815,2024-11-27,Complications from Treatment,Respiratory Diseases,Orthopedics
+136,201,1955,2024-05-17,Disease Progression,Cardiovascular Conditions,General Medicine
+137,2408,3062,2024-05-12,Medication Non-Adherence,Musculoskeletal & Injury-Related Issues,ICU
+138,3532,2013,2024-04-26,Infection or New-Onset Illness,Neurological Conditions,General Medicine
+139,4073,4946,2024-05-25,Infection or New-Onset Illness,Respiratory Diseases,Orthopedics
+140,3548,4642,2024-04-19,Complications from Treatment,Neurological Conditions,ICU
+141,215,5437,2024-10-11,Uncontrolled Symptoms,Gastrointestinal Disorders,Orthopedics
+142,773,2415,2024-10-04,Disease Progression,Gastrointestinal Disorders,Neurology
+143,4662,5122,2024-03-02,Disease Progression,Neurological Conditions,General Medicine
+144,1281,5190,2024-06-21,Medication Non-Adherence,Gastrointestinal Disorders,General Medicine
+145,4855,3995,2024-12-19,Complications from Treatment,Infectious Diseases,Neurology
+146,226,4148,2024-06-21,Medication Non-Adherence,Mental Health & Substance Abuse,General Medicine
+147,1096,1914,2024-02-07,Complications from Treatment,Endocrine & Metabolic Disorders,General Medicine
+148,2217,1606,2024-03-16,Medication Non-Adherence,Infectious Diseases,Cardiology
+149,131,486,2024-10-31,Complications from Treatment,Neurological Conditions,ICU
+150,4176,4445,2024-02-07,Uncontrolled Symptoms,Infectious Diseases,Neurology
+151,2051,3243,2024-10-09,Disease Progression,Endocrine & Metabolic Disorders,Neurology
+152,4829,2737,2024-10-30,Infection or New-Onset Illness,Gastrointestinal Disorders,ICU
+153,1507,5519,2024-05-13,Disease Progression,Mental Health & Substance Abuse,General Medicine
+154,3433,6807,2024-03-28,Complications from Treatment,Mental Health & Substance Abuse,Orthopedics
+155,147,2130,2024-01-06,Infection or New-Onset Illness,Mental Health & Substance Abuse,ICU
+156,1010,4681,2024-11-05,Uncontrolled Symptoms,Musculoskeletal & Injury-Related Issues,General Medicine
+157,3717,396,2024-01-09,Complications from Treatment,Mental Health & Substance Abuse,Orthopedics
+158,572,6596,2024-01-22,Disease Progression,Mental Health & Substance Abuse,Neurology
+159,582,1912,2024-10-11,Uncontrolled Symptoms,Gastrointestinal Disorders,Neurology
+160,278,1568,2024-04-06,Complications from Treatment,Musculoskeletal & Injury-Related Issues,Orthopedics
+161,3640,5761,2024-03-25,Uncontrolled Symptoms,Neurological Conditions,Neurology
+162,2962,2010,2024-09-29,Medication Non-Adherence,Neurological Conditions,Cardiology
+163,567,4371,2024-02-29,Medication Non-Adherence,Mental Health & Substance Abuse,General Medicine
+164,4468,5492,2024-01-26,Uncontrolled Symptoms,Respiratory Diseases,General Medicine
+165,130,5479,2024-12-10,Medication Non-Adherence,Endocrine & Metabolic Disorders,ICU
+166,1315,6334,2024-05-09,Infection or New-Onset Illness,Infectious Diseases,Orthopedics
+167,1311,6767,2024-08-31,Medication Non-Adherence,Gastrointestinal Disorders,ICU
+168,3634,4646,2024-06-14,Disease Progression,Respiratory Diseases,ICU
+169,4317,4931,2024-02-18,Disease Progression,Endocrine & Metabolic Disorders,General Medicine
+170,2761,2916,2024-03-16,Medication Non-Adherence,Musculoskeletal & Injury-Related Issues,Neurology
+171,1668,6428,2024-01-29,Uncontrolled Symptoms,Endocrine & Metabolic Disorders,Orthopedics
+172,3898,4862,2024-10-02,Infection or New-Onset Illness,Neurological Conditions,Neurology
+173,3004,2888,2024-09-23,Medication Non-Adherence,Gastrointestinal Disorders,General Medicine
+174,645,3416,2024-01-08,Complications from Treatment,Infectious Diseases,Neurology
+175,1745,211,2024-05-21,Complications from Treatment,Infectious Diseases,ICU
+176,1550,1408,2024-08-08,Complications from Treatment,Mental Health & Substance Abuse,ICU
+177,4650,6049,2024-10-15,Infection or New-Onset Illness,Infectious Diseases,Cardiology
+178,3997,6584,2024-03-21,Medication Non-Adherence,Gastrointestinal Disorders,ICU
+179,3754,6011,2024-08-31,Medication Non-Adherence,Cardiovascular Conditions,Cardiology
+180,2150,1742,2024-04-07,Complications from Treatment,Mental Health & Substance Abuse,ICU
+181,4565,2099,2024-09-09,Complications from Treatment,Cardiovascular Conditions,Neurology
+182,925,6632,2024-05-30,Medication Non-Adherence,Musculoskeletal & Injury-Related Issues,General Medicine
+183,1072,226,2024-03-09,Uncontrolled Symptoms,Neurological Conditions,Cardiology
+184,1188,1932,2024-01-07,Uncontrolled Symptoms,Endocrine & Metabolic Disorders,Orthopedics
+185,1208,445,2024-03-18,Complications from Treatment,Mental Health & Substance Abuse,General Medicine
+186,557,389,2024-05-16,Medication Non-Adherence,Musculoskeletal & Injury-Related Issues,Cardiology
+187,3383,2540,2024-03-05,Disease Progression,Neurological Conditions,ICU
+188,3952,4926,2024-06-15,Uncontrolled Symptoms,Gastrointestinal Disorders,Orthopedics
+189,2660,4984,2024-09-11,Disease Progression,Mental Health & Substance Abuse,ICU
+190,4388,4646,2024-04-08,Complications from Treatment,Musculoskeletal & Injury-Related Issues,ICU
+191,4052,5727,2024-09-07,Uncontrolled Symptoms,Infectious Diseases,Orthopedics
+192,1766,2368,2024-03-28,Uncontrolled Symptoms,Endocrine & Metabolic Disorders,General Medicine
+193,2123,2363,2024-09-04,Disease Progression,Neurological Conditions,General Medicine
+194,1533,6791,2024-06-14,Disease Progression,Mental Health & Substance Abuse,Cardiology
+195,3819,6944,2024-09-18,Disease Progression,Musculoskeletal & Injury-Related Issues,General Medicine
+196,246,3698,2024-03-18,Disease Progression,Respiratory Diseases,General Medicine
+197,1780,222,2024-10-17,Disease Progression,Cardiovascular Conditions,Orthopedics
+198,3221,6447,2024-01-03,Uncontrolled Symptoms,Cardiovascular Conditions,Neurology
+199,2079,873,2024-06-03,Uncontrolled Symptoms,Cardiovascular Conditions,ICU
+200,3632,3326,2024-11-15,Medication Non-Adherence,Infectious Diseases,General Medicine
+201,4383,3676,2024-12-15,Uncontrolled Symptoms,Gastrointestinal Disorders,Orthopedics
+202,2673,1360,2024-12-10,Disease Progression,Endocrine & Metabolic Disorders,Orthopedics
+203,420,2267,2024-09-14,Complications from Treatment,Endocrine & Metabolic Disorders,ICU
+204,3145,4108,2024-10-02,Infection or New-Onset Illness,Mental Health & Substance Abuse,ICU
+205,2391,2419,2024-06-22,Disease Progression,Endocrine & Metabolic Disorders,Cardiology
+206,1419,2722,2024-11-08,Disease Progression,Neurological Conditions,Cardiology
+207,422,5276,2024-08-05,Infection or New-Onset Illness,Respiratory Diseases,Cardiology
+208,462,6758,2024-06-26,Medication Non-Adherence,Mental Health & Substance Abuse,General Medicine
+209,4530,173,2024-03-21,Uncontrolled Symptoms,Musculoskeletal & Injury-Related Issues,General Medicine
+210,3217,30,2024-03-09,Infection or New-Onset Illness,Gastrointestinal Disorders,Cardiology
+211,1891,4820,2024-07-01,Medication Non-Adherence,Neurological Conditions,Neurology
+212,3520,994,2024-12-03,Complications from Treatment,Musculoskeletal & Injury-Related Issues,General Medicine
+213,1110,4894,2024-05-27,Complications from Treatment,Gastrointestinal Disorders,Orthopedics
+214,1261,4989,2024-10-11,Uncontrolled Symptoms,Cardiovascular Conditions,ICU
+215,3711,1352,2024-04-18,Complications from Treatment,Cardiovascular Conditions,Cardiology
+216,4933,4385,2024-06-27,Infection or New-Onset Illness,Respiratory Diseases,ICU
+217,2320,6100,2024-02-17,Medication Non-Adherence,Cardiovascular Conditions,Cardiology
+218,3011,599,2024-09-30,Uncontrolled Symptoms,Cardiovascular Conditions,Neurology
+219,1493,2838,2024-07-30,Complications from Treatment,Infectious Diseases,Neurology
+220,3659,6383,2024-04-02,Uncontrolled Symptoms,Musculoskeletal & Injury-Related Issues,Cardiology
+221,4401,228,2024-02-17,Infection or New-Onset Illness,Gastrointestinal Disorders,Cardiology
+222,1324,5402,2024-02-13,Disease Progression,Neurological Conditions,Orthopedics
+223,2346,4389,2024-11-08,Uncontrolled Symptoms,Cardiovascular Conditions,Neurology
+224,3317,126,2024-02-18,Medication Non-Adherence,Endocrine & Metabolic Disorders,General Medicine
+225,168,1104,2024-03-07,Complications from Treatment,Respiratory Diseases,ICU
+226,1511,1981,2024-08-23,Medication Non-Adherence,Cardiovascular Conditions,Orthopedics
+227,2764,5445,2024-11-17,Disease Progression,Infectious Diseases,Orthopedics
+228,1792,6606,2024-03-12,Complications from Treatment,Infectious Diseases,Orthopedics
+229,4117,3305,2024-06-14,Medication Non-Adherence,Mental Health & Substance Abuse,General Medicine
+230,940,3550,2024-08-08,Medication Non-Adherence,Mental Health & Substance Abuse,ICU
+231,1364,4062,2024-03-25,Complications from Treatment,Endocrine & Metabolic Disorders,Cardiology
+232,3031,2954,2024-03-21,Medication Non-Adherence,Musculoskeletal & Injury-Related Issues,Neurology
+233,60,1915,2024-01-18,Complications from Treatment,Gastrointestinal Disorders,Orthopedics
+234,2309,1613,2024-01-16,Complications from Treatment,Mental Health & Substance Abuse,Neurology
+235,1596,3652,2024-10-03,Infection or New-Onset Illness,Respiratory Diseases,ICU
+236,2648,3540,2024-08-14,Medication Non-Adherence,Endocrine & Metabolic Disorders,Cardiology
+237,2652,3168,2024-03-11,Disease Progression,Cardiovascular Conditions,Orthopedics
+238,4525,2959,2024-07-09,Medication Non-Adherence,Cardiovascular Conditions,Orthopedics
+239,4041,5679,2024-10-06,Uncontrolled Symptoms,Cardiovascular Conditions,Orthopedics
+240,116,6429,2024-05-11,Infection or New-Onset Illness,Infectious Diseases,ICU
+241,2569,1877,2024-03-04,Disease Progression,Endocrine & Metabolic Disorders,Cardiology
+242,377,6284,2024-09-17,Uncontrolled Symptoms,Gastrointestinal Disorders,ICU
+243,3192,4104,2024-09-27,Medication Non-Adherence,Infectious Diseases,General Medicine
+244,4801,423,2024-06-03,Complications from Treatment,Mental Health & Substance Abuse,Orthopedics
+245,1252,2047,2024-02-02,Complications from Treatment,Neurological Conditions,Neurology
+246,4817,4676,2024-11-29,Complications from Treatment,Mental Health & Substance Abuse,ICU
+247,2849,3280,2024-08-26,Infection or New-Onset Illness,Cardiovascular Conditions,ICU
+248,4582,2976,2024-11-02,Uncontrolled Symptoms,Musculoskeletal & Injury-Related Issues,ICU
+249,4204,2939,2024-03-30,Infection or New-Onset Illness,Infectious Diseases,Orthopedics
+250,1043,2838,2024-09-04,Disease Progression,Endocrine & Metabolic Disorders,Cardiology
+251,2500,1064,2024-09-18,Complications from Treatment,Respiratory Diseases,General Medicine
+252,2287,1347,2024-05-20,Medication Non-Adherence,Mental Health & Substance Abuse,Neurology
+253,4237,3348,2024-05-27,Medication Non-Adherence,Respiratory Diseases,General Medicine
+254,4350,6257,2024-06-02,Uncontrolled Symptoms,Respiratory Diseases,ICU
+255,2416,4554,2024-11-04,Uncontrolled Symptoms,Cardiovascular Conditions,Neurology
+256,2774,1096,2024-03-19,Medication Non-Adherence,Respiratory Diseases,ICU
+257,2890,4631,2024-01-12,Infection or New-Onset Illness,Cardiovascular Conditions,Cardiology
+258,2262,3934,2024-01-02,Disease Progression,Neurological Conditions,Cardiology
+259,1288,798,2024-10-05,Uncontrolled Symptoms,Endocrine & Metabolic Disorders,Cardiology
+260,2487,5425,2024-03-20,Medication Non-Adherence,Endocrine & Metabolic Disorders,Orthopedics
+261,1148,2466,2024-12-20,Infection or New-Onset Illness,Cardiovascular Conditions,ICU
+262,3989,543,2024-06-13,Medication Non-Adherence,Mental Health & Substance Abuse,Orthopedics
+263,1481,3598,2024-07-25,Medication Non-Adherence,Respiratory Diseases,ICU
+264,3528,877,2024-05-17,Infection or New-Onset Illness,Respiratory Diseases,General Medicine
+265,4419,4216,2024-11-13,Complications from Treatment,Cardiovascular Conditions,General Medicine
+266,1021,4950,2024-03-25,Medication Non-Adherence,Cardiovascular Conditions,Neurology
+267,3332,6108,2024-10-28,Complications from Treatment,Endocrine & Metabolic Disorders,General Medicine
+268,4925,5925,2024-12-15,Complications from Treatment,Infectious Diseases,Neurology
+269,701,6221,2024-02-23,Infection or New-Onset Illness,Mental Health & Substance Abuse,ICU
+270,4180,507,2024-04-13,Uncontrolled Symptoms,Endocrine & Metabolic Disorders,General Medicine
+271,1941,1412,2024-12-09,Infection or New-Onset Illness,Respiratory Diseases,General Medicine
+272,1893,5699,2024-12-15,Medication Non-Adherence,Infectious Diseases,Neurology
+273,820,4603,2024-12-24,Complications from Treatment,Musculoskeletal & Injury-Related Issues,Cardiology
+274,4868,3876,2024-07-14,Disease Progression,Infectious Diseases,Neurology
+275,4900,4380,2024-01-13,Infection or New-Onset Illness,Neurological Conditions,Orthopedics
+276,3768,5518,2024-04-12,Infection or New-Onset Illness,Mental Health & Substance Abuse,Cardiology
+277,860,3930,2024-10-25,Medication Non-Adherence,Endocrine & Metabolic Disorders,Orthopedics
+278,2293,4984,2024-11-06,Complications from Treatment,Mental Health & Substance Abuse,Orthopedics
+279,3827,2002,2024-08-19,Complications from Treatment,Endocrine & Metabolic Disorders,ICU
+280,977,3355,2024-12-11,Infection or New-Onset Illness,Infectious Diseases,Orthopedics
+281,34,6422,2024-01-17,Disease Progression,Neurological Conditions,Cardiology
+282,4676,1663,2024-02-01,Medication Non-Adherence,Infectious Diseases,Neurology
+283,4166,4284,2024-01-02,Disease Progression,Cardiovascular Conditions,Cardiology
+284,1383,5710,2024-02-25,Complications from Treatment,Infectious Diseases,Cardiology
+285,2662,5199,2024-02-20,Infection or New-Onset Illness,Neurological Conditions,Neurology
+286,1071,6971,2024-03-20,Uncontrolled Symptoms,Respiratory Diseases,Cardiology
+287,543,1026,2024-03-24,Medication Non-Adherence,Infectious Diseases,Orthopedics
+288,4189,4966,2024-11-01,Medication Non-Adherence,Musculoskeletal & Injury-Related Issues,General Medicine
+289,1642,1755,2024-03-03,Complications from Treatment,Infectious Diseases,Neurology
+290,601,268,2024-01-27,Uncontrolled Symptoms,Respiratory Diseases,General Medicine
+291,2515,5447,2024-11-13,Infection or New-Onset Illness,Cardiovascular Conditions,ICU
+292,4837,6901,2024-03-23,Disease Progression,Endocrine & Metabolic Disorders,Neurology
+293,2763,1827,2024-07-09,Complications from Treatment,Infectious Diseases,Neurology
+294,2463,3944,2024-10-30,Complications from Treatment,Endocrine & Metabolic Disorders,Orthopedics
+295,2097,6479,2024-12-09,Complications from Treatment,Endocrine & Metabolic Disorders,General Medicine
+296,313,931,2024-12-05,Uncontrolled Symptoms,Gastrointestinal Disorders,General Medicine
+297,550,6927,2024-05-03,Infection or New-Onset Illness,Neurological Conditions,ICU
+298,791,3569,2024-03-12,Disease Progression,Respiratory Diseases,Orthopedics
+299,4134,6858,2024-02-23,Disease Progression,Gastrointestinal Disorders,General Medicine
+300,660,1703,2024-12-08,Uncontrolled Symptoms,Cardiovascular Conditions,ICU
+301,3506,4671,2024-05-12,Complications from Treatment,Gastrointestinal Disorders,ICU
+302,147,5911,2024-01-25,Medication Non-Adherence,Cardiovascular Conditions,Neurology
+303,4691,776,2024-06-06,Infection or New-Onset Illness,Cardiovascular Conditions,Orthopedics
+304,4191,3421,2024-12-20,Medication Non-Adherence,Endocrine & Metabolic Disorders,Neurology
+305,4776,777,2024-07-20,Medication Non-Adherence,Musculoskeletal & Injury-Related Issues,General Medicine
+306,4364,741,2024-11-16,Uncontrolled Symptoms,Mental Health & Substance Abuse,General Medicine
+307,325,909,2024-06-13,Infection or New-Onset Illness,Musculoskeletal & Injury-Related Issues,General Medicine
+308,4380,5515,2024-12-14,Uncontrolled Symptoms,Musculoskeletal & Injury-Related Issues,Cardiology
+309,4308,6773,2024-09-19,Uncontrolled Symptoms,Neurological Conditions,Orthopedics
+310,2157,2942,2024-01-02,Disease Progression,Infectious Diseases,Orthopedics
+311,1819,4559,2024-02-24,Disease Progression,Infectious Diseases,Orthopedics
+312,1214,5602,2024-07-11,Disease Progression,Endocrine & Metabolic Disorders,Cardiology
+313,2297,4951,2024-08-24,Medication Non-Adherence,Mental Health & Substance Abuse,Orthopedics
+314,76,2130,2024-12-01,Medication Non-Adherence,Endocrine & Metabolic Disorders,ICU
+315,1836,5780,2024-01-08,Medication Non-Adherence,Respiratory Diseases,ICU
+316,2398,3791,2024-02-15,Infection or New-Onset Illness,Musculoskeletal & Injury-Related Issues,ICU
+317,4292,3985,2024-05-29,Disease Progression,Respiratory Diseases,ICU
+318,850,6641,2024-05-10,Complications from Treatment,Infectious Diseases,General Medicine
+319,2065,5424,2024-08-03,Disease Progression,Gastrointestinal Disorders,Orthopedics
+320,609,6806,2024-11-18,Medication Non-Adherence,Musculoskeletal & Injury-Related Issues,Neurology
+321,2406,1357,2024-10-14,Medication Non-Adherence,Endocrine & Metabolic Disorders,Neurology
+322,1653,6081,2024-03-16,Medication Non-Adherence,Neurological Conditions,Neurology
+323,4468,3157,2024-06-11,Uncontrolled Symptoms,Gastrointestinal Disorders,Orthopedics
+324,1973,5099,2024-05-07,Disease Progression,Endocrine & Metabolic Disorders,General Medicine
+325,1129,3945,2024-03-11,Complications from Treatment,Neurological Conditions,Orthopedics
+326,1887,6998,2024-08-17,Complications from Treatment,Infectious Diseases,Orthopedics
+327,2664,3381,2024-12-18,Medication Non-Adherence,Musculoskeletal & Injury-Related Issues,General Medicine
+328,1334,2081,2024-10-12,Infection or New-Onset Illness,Cardiovascular Conditions,General Medicine
+329,1631,6132,2024-04-24,Uncontrolled Symptoms,Gastrointestinal Disorders,Neurology
+330,3061,3885,2024-02-16,Disease Progression,Infectious Diseases,Orthopedics
+331,684,6204,2024-08-07,Complications from Treatment,Infectious Diseases,Orthopedics
+332,3626,940,2024-07-27,Complications from Treatment,Respiratory Diseases,General Medicine
+333,869,710,2024-05-29,Infection or New-Onset Illness,Mental Health & Substance Abuse,Neurology
+334,3933,4549,2024-07-19,Medication Non-Adherence,Respiratory Diseases,Cardiology
+335,121,1120,2024-01-02,Infection or New-Onset Illness,Musculoskeletal & Injury-Related Issues,ICU
+336,3313,253,2024-09-05,Uncontrolled Symptoms,Mental Health & Substance Abuse,Cardiology
+337,3392,4832,2024-06-27,Infection or New-Onset Illness,Respiratory Diseases,Orthopedics
+338,1512,5974,2024-10-03,Infection or New-Onset Illness,Cardiovascular Conditions,Cardiology
+339,2759,6322,2024-09-18,Complications from Treatment,Musculoskeletal & Injury-Related Issues,Cardiology
+340,1875,6488,2024-09-03,Uncontrolled Symptoms,Gastrointestinal Disorders,Cardiology
+341,167,1048,2024-08-16,Complications from Treatment,Respiratory Diseases,Orthopedics
+342,3705,1444,2024-06-18,Complications from Treatment,Neurological Conditions,Cardiology
+343,4265,1384,2024-08-21,Disease Progression,Neurological Conditions,Orthopedics
+344,3027,303,2024-01-31,Complications from Treatment,Musculoskeletal & Injury-Related Issues,General Medicine
+345,1617,5336,2024-05-11,Uncontrolled Symptoms,Musculoskeletal & Injury-Related Issues,Cardiology
+346,3457,882,2024-08-19,Infection or New-Onset Illness,Infectious Diseases,ICU
+347,1505,3205,2024-07-01,Complications from Treatment,Cardiovascular Conditions,Orthopedics
+348,1727,4182,2024-02-21,Disease Progression,Musculoskeletal & Injury-Related Issues,General Medicine
+349,4974,1814,2024-01-21,Infection or New-Onset Illness,Gastrointestinal Disorders,Orthopedics
+350,2743,3079,2024-01-22,Infection or New-Onset Illness,Musculoskeletal & Injury-Related Issues,Orthopedics
+351,3054,3077,2024-08-04,Disease Progression,Respiratory Diseases,Cardiology
+352,2426,2490,2024-02-21,Disease Progression,Neurological Conditions,Neurology
+353,3179,6505,2024-03-09,Uncontrolled Symptoms,Respiratory Diseases,Cardiology
+354,159,1590,2024-08-22,Uncontrolled Symptoms,Mental Health & Substance Abuse,Orthopedics
+355,1033,3839,2024-08-02,Complications from Treatment,Mental Health & Substance Abuse,ICU
+356,1671,2090,2024-09-30,Uncontrolled Symptoms,Endocrine & Metabolic Disorders,General Medicine
+357,2337,3631,2024-09-24,Medication Non-Adherence,Infectious Diseases,Cardiology
+358,223,606,2024-03-06,Disease Progression,Mental Health & Substance Abuse,Neurology
+359,112,2890,2024-04-02,Medication Non-Adherence,Endocrine & Metabolic Disorders,Cardiology
+360,3800,559,2024-12-14,Uncontrolled Symptoms,Neurological Conditions,Orthopedics
+361,180,2579,2024-01-11,Complications from Treatment,Endocrine & Metabolic Disorders,Cardiology
+362,148,2143,2024-04-19,Infection or New-Onset Illness,Mental Health & Substance Abuse,Cardiology
+363,3754,1526,2024-07-07,Uncontrolled Symptoms,Infectious Diseases,General Medicine
+364,3870,2351,2024-10-23,Complications from Treatment,Neurological Conditions,Neurology
+365,2794,159,2024-02-03,Complications from Treatment,Gastrointestinal Disorders,General Medicine
+366,829,713,2024-04-20,Medication Non-Adherence,Endocrine & Metabolic Disorders,Orthopedics
+367,4555,5372,2024-03-31,Uncontrolled Symptoms,Neurological Conditions,ICU
+368,2902,4495,2024-10-03,Complications from Treatment,Mental Health & Substance Abuse,Orthopedics
+369,4330,4558,2024-12-11,Uncontrolled Symptoms,Mental Health & Substance Abuse,Orthopedics
+370,4862,6641,2024-04-22,Uncontrolled Symptoms,Cardiovascular Conditions,ICU
+371,422,1065,2024-07-30,Medication Non-Adherence,Respiratory Diseases,ICU
+372,4020,2100,2024-02-05,Uncontrolled Symptoms,Gastrointestinal Disorders,Cardiology
+373,2244,1952,2024-01-17,Infection or New-Onset Illness,Musculoskeletal & Injury-Related Issues,ICU
+374,1162,1816,2024-04-21,Medication Non-Adherence,Neurological Conditions,ICU
+375,1289,5515,2024-11-20,Uncontrolled Symptoms,Musculoskeletal & Injury-Related Issues,ICU
+376,873,1649,2024-03-11,Complications from Treatment,Cardiovascular Conditions,ICU
+377,4862,6648,2024-04-20,Disease Progression,Gastrointestinal Disorders,Neurology
+378,4482,4042,2024-07-17,Medication Non-Adherence,Endocrine & Metabolic Disorders,Neurology
+379,517,6159,2025-01-01,Disease Progression,Endocrine & Metabolic Disorders,Cardiology
+380,1580,4093,2024-11-13,Uncontrolled Symptoms,Mental Health & Substance Abuse,ICU
+381,3906,4926,2024-01-24,Disease Progression,Endocrine & Metabolic Disorders,ICU
+382,2721,3411,2024-02-04,Medication Non-Adherence,Cardiovascular Conditions,ICU
+383,677,181,2024-12-21,Uncontrolled Symptoms,Musculoskeletal & Injury-Related Issues,Cardiology
+384,3826,3019,2024-07-07,Complications from Treatment,Musculoskeletal & Injury-Related Issues,Cardiology
+385,2471,6638,2024-09-10,Uncontrolled Symptoms,Gastrointestinal Disorders,General Medicine
+386,1546,1404,2024-02-06,Complications from Treatment,Neurological Conditions,Orthopedics
+387,1758,4807,2024-08-28,Medication Non-Adherence,Gastrointestinal Disorders,General Medicine
+388,372,4817,2024-08-18,Complications from Treatment,Neurological Conditions,Neurology
+389,4303,5896,2024-03-02,Disease Progression,Infectious Diseases,General Medicine
+390,4029,3796,2024-04-13,Uncontrolled Symptoms,Endocrine & Metabolic Disorders,ICU
+391,4781,2637,2024-01-18,Medication Non-Adherence,Musculoskeletal & Injury-Related Issues,General Medicine
+392,3336,922,2024-12-19,Infection or New-Onset Illness,Mental Health & Substance Abuse,General Medicine
+393,1168,764,2024-05-19,Infection or New-Onset Illness,Mental Health & Substance Abuse,Orthopedics
+394,3216,3050,2024-07-24,Medication Non-Adherence,Neurological Conditions,ICU
+395,2397,457,2024-03-10,Disease Progression,Endocrine & Metabolic Disorders,Cardiology
+396,1153,6546,2024-04-14,Uncontrolled Symptoms,Neurological Conditions,ICU
+397,4990,5875,2024-12-13,Medication Non-Adherence,Endocrine & Metabolic Disorders,Cardiology
+398,100,1825,2024-04-19,Disease Progression,Mental Health & Substance Abuse,Neurology
+399,4332,4265,2024-11-01,Infection or New-Onset Illness,Musculoskeletal & Injury-Related Issues,General Medicine
+400,3199,5275,2024-06-17,Uncontrolled Symptoms,Infectious Diseases,General Medicine
+401,848,2696,2024-05-26,Disease Progression,Mental Health & Substance Abuse,Neurology
+402,3992,5062,2024-11-09,Infection or New-Onset Illness,Endocrine & Metabolic Disorders,Cardiology
+403,2870,421,2024-02-07,Medication Non-Adherence,Musculoskeletal & Injury-Related Issues,Orthopedics
+404,1376,3693,2024-09-05,Medication Non-Adherence,Neurological Conditions,General Medicine
+405,1438,4757,2024-02-18,Infection or New-Onset Illness,Neurological Conditions,ICU
+406,4678,4487,2024-05-06,Infection or New-Onset Illness,Mental Health & Substance Abuse,Neurology
+407,3028,980,2024-08-13,Disease Progression,Neurological Conditions,ICU
+408,2874,1118,2024-05-31,Medication Non-Adherence,Infectious Diseases,Cardiology
+409,1414,4576,2024-08-27,Infection or New-Onset Illness,Infectious Diseases,Orthopedics
+410,950,2480,2024-11-21,Infection or New-Onset Illness,Cardiovascular Conditions,ICU
+411,2419,354,2024-12-16,Medication Non-Adherence,Gastrointestinal Disorders,General Medicine
+412,1115,3617,2024-01-17,Medication Non-Adherence,Respiratory Diseases,General Medicine
+413,269,2223,2024-08-25,Complications from Treatment,Mental Health & Substance Abuse,Cardiology
+414,3902,2853,2024-07-10,Medication Non-Adherence,Respiratory Diseases,ICU
+415,1304,5703,2024-04-28,Medication Non-Adherence,Cardiovascular Conditions,Orthopedics
+416,4392,1273,2024-07-16,Medication Non-Adherence,Respiratory Diseases,General Medicine
+417,3471,255,2024-08-10,Uncontrolled Symptoms,Neurological Conditions,Neurology
+418,4381,540,2024-11-29,Uncontrolled Symptoms,Endocrine & Metabolic Disorders,General Medicine
+419,2240,3904,2024-02-16,Disease Progression,Infectious Diseases,ICU
+420,1596,4247,2024-12-07,Infection or New-Onset Illness,Respiratory Diseases,ICU
+421,422,2766,2024-09-26,Uncontrolled Symptoms,Musculoskeletal & Injury-Related Issues,Neurology
+422,4043,523,2024-08-18,Complications from Treatment,Musculoskeletal & Injury-Related Issues,General Medicine
+423,207,2881,2024-08-03,Medication Non-Adherence,Neurological Conditions,Orthopedics
+424,3870,6638,2024-11-20,Complications from Treatment,Infectious Diseases,Cardiology
+425,856,6814,2024-04-26,Infection or New-Onset Illness,Infectious Diseases,Neurology
+426,2563,1654,2024-02-04,Disease Progression,Respiratory Diseases,General Medicine
+427,122,4299,2024-07-20,Infection or New-Onset Illness,Neurological Conditions,Cardiology
+428,806,4998,2024-01-19,Disease Progression,Cardiovascular Conditions,Neurology
+429,1051,2365,2024-11-30,Uncontrolled Symptoms,Endocrine & Metabolic Disorders,Neurology
+430,4,2733,2024-01-08,Infection or New-Onset Illness,Musculoskeletal & Injury-Related Issues,ICU
+431,293,3322,2024-01-24,Uncontrolled Symptoms,Musculoskeletal & Injury-Related Issues,Neurology
+432,3944,110,2024-08-12,Complications from Treatment,Mental Health & Substance Abuse,Neurology
+433,3143,6882,2024-01-28,Uncontrolled Symptoms,Cardiovascular Conditions,Orthopedics
+434,4174,5656,2024-11-06,Complications from Treatment,Gastrointestinal Disorders,ICU
+435,3903,5335,2024-03-31,Complications from Treatment,Musculoskeletal & Injury-Related Issues,Orthopedics
+436,3746,1835,2024-06-03,Complications from Treatment,Infectious Diseases,Neurology
+437,966,2289,2024-03-13,Disease Progression,Mental Health & Substance Abuse,ICU
+438,3745,3886,2024-07-11,Medication Non-Adherence,Respiratory Diseases,Neurology
+439,555,6815,2024-12-22,Infection or New-Onset Illness,Neurological Conditions,Cardiology
+440,3587,1410,2024-01-09,Infection or New-Onset Illness,Neurological Conditions,ICU
+441,4744,1318,2024-12-28,Uncontrolled Symptoms,Respiratory Diseases,Orthopedics
+442,620,1805,2024-12-16,Uncontrolled Symptoms,Musculoskeletal & Injury-Related Issues,Neurology
+443,749,2352,2024-03-23,Complications from Treatment,Mental Health & Substance Abuse,Cardiology
+444,2353,3354,2024-10-24,Medication Non-Adherence,Mental Health & Substance Abuse,Cardiology
+445,2006,3789,2024-06-12,Medication Non-Adherence,Endocrine & Metabolic Disorders,Neurology
+446,430,5559,2024-05-22,Complications from Treatment,Infectious Diseases,Orthopedics
+447,4397,5452,2024-11-13,Infection or New-Onset Illness,Cardiovascular Conditions,General Medicine
+448,4724,6014,2024-10-20,Infection or New-Onset Illness,Endocrine & Metabolic Disorders,Cardiology
+449,4941,3151,2024-08-16,Uncontrolled Symptoms,Infectious Diseases,Cardiology
+450,377,4651,2024-01-24,Infection or New-Onset Illness,Cardiovascular Conditions,ICU
+451,4598,4905,2024-08-11,Complications from Treatment,Neurological Conditions,General Medicine
+452,599,2603,2024-08-01,Complications from Treatment,Mental Health & Substance Abuse,Neurology
+453,3413,733,2024-03-09,Disease Progression,Neurological Conditions,Orthopedics
+454,719,3942,2024-09-13,Infection or New-Onset Illness,Neurological Conditions,Neurology
+455,3494,1678,2024-07-14,Disease Progression,Gastrointestinal Disorders,ICU
+456,1231,3188,2024-08-31,Infection or New-Onset Illness,Gastrointestinal Disorders,ICU
+457,4784,2400,2024-08-16,Infection or New-Onset Illness,Cardiovascular Conditions,General Medicine
+458,1059,2447,2024-03-29,Uncontrolled Symptoms,Neurological Conditions,Orthopedics
+459,1814,5275,2024-06-22,Uncontrolled Symptoms,Neurological Conditions,ICU
+460,3601,121,2024-05-13,Complications from Treatment,Infectious Diseases,Orthopedics
+461,3613,2694,2024-07-18,Complications from Treatment,Cardiovascular Conditions,Cardiology
+462,3179,5615,2024-11-02,Medication Non-Adherence,Mental Health & Substance Abuse,ICU
+463,1824,2149,2024-02-29,Medication Non-Adherence,Respiratory Diseases,Neurology
+464,1342,3384,2024-07-02,Uncontrolled Symptoms,Infectious Diseases,Neurology
+465,1121,941,2024-12-16,Complications from Treatment,Musculoskeletal & Injury-Related Issues,Cardiology
+466,345,5259,2024-09-26,Uncontrolled Symptoms,Infectious Diseases,ICU
+467,542,1694,2024-03-25,Complications from Treatment,Gastrointestinal Disorders,General Medicine
+468,4696,613,2024-01-26,Infection or New-Onset Illness,Respiratory Diseases,General Medicine
+469,492,3781,2024-08-12,Disease Progression,Cardiovascular Conditions,Orthopedics
+470,4508,2988,2024-12-03,Complications from Treatment,Respiratory Diseases,Neurology
+471,4240,3229,2024-03-08,Uncontrolled Symptoms,Mental Health & Substance Abuse,Orthopedics
+472,4934,6943,2024-05-09,Uncontrolled Symptoms,Neurological Conditions,General Medicine
+473,763,4425,2024-02-29,Uncontrolled Symptoms,Endocrine & Metabolic Disorders,Orthopedics
+474,2538,2097,2024-11-09,Disease Progression,Respiratory Diseases,Neurology
+475,1058,5816,2024-10-27,Medication Non-Adherence,Mental Health & Substance Abuse,Cardiology
+476,796,1651,2024-09-20,Uncontrolled Symptoms,Neurological Conditions,Cardiology
+477,1098,2574,2024-07-08,Disease Progression,Musculoskeletal & Injury-Related Issues,General Medicine
+478,457,6918,2024-08-30,Disease Progression,Mental Health & Substance Abuse,ICU
+479,2612,541,2024-07-05,Infection or New-Onset Illness,Musculoskeletal & Injury-Related Issues,Neurology
+480,2874,884,2024-03-06,Medication Non-Adherence,Gastrointestinal Disorders,General Medicine
+481,1290,6675,2024-02-29,Medication Non-Adherence,Cardiovascular Conditions,ICU
+482,3506,952,2024-02-24,Medication Non-Adherence,Gastrointestinal Disorders,Orthopedics
+483,4540,1650,2024-08-22,Uncontrolled Symptoms,Cardiovascular Conditions,General Medicine
+484,4502,1099,2024-12-15,Uncontrolled Symptoms,Endocrine & Metabolic Disorders,General Medicine
+485,4881,2353,2024-05-14,Uncontrolled Symptoms,Endocrine & Metabolic Disorders,Cardiology
+486,1708,2005,2024-03-19,Infection or New-Onset Illness,Mental Health & Substance Abuse,ICU
+487,4988,3069,2024-04-05,Disease Progression,Cardiovascular Conditions,General Medicine
+488,3376,5832,2024-06-07,Medication Non-Adherence,Musculoskeletal & Injury-Related Issues,General Medicine
+489,2378,6723,2024-06-08,Infection or New-Onset Illness,Cardiovascular Conditions,Neurology
+490,744,4392,2024-02-18,Complications from Treatment,Mental Health & Substance Abuse,Neurology
+491,4563,5926,2024-08-17,Medication Non-Adherence,Cardiovascular Conditions,Cardiology
+492,4656,5863,2024-08-13,Disease Progression,Mental Health & Substance Abuse,ICU
+493,2660,3522,2024-04-25,Medication Non-Adherence,Endocrine & Metabolic Disorders,Cardiology
+494,281,5762,2024-03-21,Infection or New-Onset Illness,Infectious Diseases,Neurology
+495,1066,4862,2024-05-09,Complications from Treatment,Infectious Diseases,Orthopedics
+496,1297,4910,2024-02-03,Infection or New-Onset Illness,Musculoskeletal & Injury-Related Issues,ICU
+497,3955,6000,2024-08-11,Medication Non-Adherence,Infectious Diseases,General Medicine
+498,3956,3004,2024-10-18,Complications from Treatment,Cardiovascular Conditions,General Medicine
+499,1198,5918,2024-01-22,Infection or New-Onset Illness,Neurological Conditions,Cardiology
+500,4461,6771,2024-12-23,Disease Progression,Endocrine & Metabolic Disorders,General Medicine
+501,2166,1,2024-11-11,Infection or New-Onset Illness,Cardiovascular Conditions,Cardiology
+502,2336,1078,2024-10-29,Disease Progression,Mental Health & Substance Abuse,Orthopedics
+503,4531,3495,2024-04-29,Disease Progression,Endocrine & Metabolic Disorders,General Medicine
+504,3124,5500,2024-11-25,Complications from Treatment,Gastrointestinal Disorders,Neurology
+505,3901,5131,2024-04-06,Disease Progression,Mental Health & Substance Abuse,ICU
+506,2673,5487,2024-03-24,Complications from Treatment,Endocrine & Metabolic Disorders,Neurology
+507,3186,5718,2024-02-08,Disease Progression,Musculoskeletal & Injury-Related Issues,Cardiology
+508,1859,3068,2024-05-12,Uncontrolled Symptoms,Infectious Diseases,Cardiology
+509,4201,2073,2024-06-30,Disease Progression,Gastrointestinal Disorders,Cardiology
+510,212,4710,2024-03-21,Infection or New-Onset Illness,Neurological Conditions,Cardiology
+511,4223,514,2024-05-06,Complications from Treatment,Respiratory Diseases,Neurology
+512,2545,6813,2024-11-30,Complications from Treatment,Musculoskeletal & Injury-Related Issues,Orthopedics
+513,2482,2769,2024-11-25,Uncontrolled Symptoms,Infectious Diseases,Cardiology
+514,2453,6298,2024-07-18,Disease Progression,Cardiovascular Conditions,Orthopedics
+515,4391,3635,2024-04-29,Complications from Treatment,Endocrine & Metabolic Disorders,Neurology
+516,3514,6745,2024-10-13,Uncontrolled Symptoms,Neurological Conditions,ICU
+517,4033,5249,2024-05-16,Uncontrolled Symptoms,Musculoskeletal & Injury-Related Issues,Neurology
+518,1145,3227,2024-01-28,Medication Non-Adherence,Musculoskeletal & Injury-Related Issues,General Medicine
+519,2211,1184,2024-11-02,Uncontrolled Symptoms,Cardiovascular Conditions,Orthopedics
+520,4580,4322,2024-02-06,Disease Progression,Cardiovascular Conditions,General Medicine
+521,2939,1614,2024-02-11,Infection or New-Onset Illness,Endocrine & Metabolic Disorders,ICU
+522,3436,4722,2024-08-02,Complications from Treatment,Gastrointestinal Disorders,ICU
+523,493,6952,2024-05-07,Disease Progression,Musculoskeletal & Injury-Related Issues,Cardiology
+524,2349,2838,2024-11-09,Disease Progression,Infectious Diseases,Neurology
+525,2603,5049,2024-11-01,Infection or New-Onset Illness,Endocrine & Metabolic Disorders,ICU
+526,3885,1217,2024-05-06,Medication Non-Adherence,Musculoskeletal & Injury-Related Issues,Orthopedics
+527,2994,1257,2024-05-04,Medication Non-Adherence,Cardiovascular Conditions,ICU
+528,193,1246,2024-11-07,Infection or New-Onset Illness,Infectious Diseases,Cardiology
+529,145,3890,2024-10-17,Medication Non-Adherence,Respiratory Diseases,General Medicine
+530,4885,6949,2024-11-12,Infection or New-Onset Illness,Musculoskeletal & Injury-Related Issues,Cardiology
+531,1065,6907,2024-03-07,Uncontrolled Symptoms,Neurological Conditions,Neurology
+532,4016,6397,2024-01-01,Disease Progression,Infectious Diseases,Cardiology
+533,2039,2145,2024-09-25,Medication Non-Adherence,Mental Health & Substance Abuse,Orthopedics
+534,3521,5912,2024-10-05,Medication Non-Adherence,Infectious Diseases,Neurology
+535,1726,4022,2024-02-22,Uncontrolled Symptoms,Neurological Conditions,General Medicine
+536,1454,573,2024-09-23,Disease Progression,Endocrine & Metabolic Disorders,Orthopedics
+537,450,1730,2024-03-03,Disease Progression,Gastrointestinal Disorders,Neurology
+538,1720,4767,2024-04-01,Uncontrolled Symptoms,Cardiovascular Conditions,Neurology
+539,1471,6834,2024-03-04,Medication Non-Adherence,Mental Health & Substance Abuse,ICU
+540,2955,3801,2024-01-15,Uncontrolled Symptoms,Musculoskeletal & Injury-Related Issues,ICU
+541,4090,693,2024-11-11,Disease Progression,Infectious Diseases,General Medicine
+542,4186,2081,2024-05-29,Infection or New-Onset Illness,Cardiovascular Conditions,Cardiology
+543,4673,4871,2024-01-07,Medication Non-Adherence,Mental Health & Substance Abuse,Neurology
+544,2488,5901,2024-08-31,Infection or New-Onset Illness,Neurological Conditions,Cardiology
+545,1355,1331,2024-05-28,Complications from Treatment,Respiratory Diseases,Neurology
+546,498,5170,2024-12-22,Disease Progression,Gastrointestinal Disorders,Orthopedics
+547,678,3058,2024-07-28,Medication Non-Adherence,Infectious Diseases,ICU
+548,234,942,2024-04-03,Medication Non-Adherence,Mental Health & Substance Abuse,Cardiology
+549,4490,1127,2024-12-07,Medication Non-Adherence,Respiratory Diseases,Neurology
+550,4008,3935,2024-03-06,Uncontrolled Symptoms,Neurological Conditions,Orthopedics
+551,3559,3468,2024-06-14,Complications from Treatment,Musculoskeletal & Injury-Related Issues,General Medicine
+552,867,4023,2024-09-23,Medication Non-Adherence,Respiratory Diseases,Orthopedics
+553,947,448,2024-02-08,Medication Non-Adherence,Gastrointestinal Disorders,Orthopedics
+554,1836,1463,2024-07-04,Infection or New-Onset Illness,Gastrointestinal Disorders,Neurology
+555,843,6081,2024-01-30,Disease Progression,Endocrine & Metabolic Disorders,Cardiology
+556,983,4008,2024-08-25,Medication Non-Adherence,Infectious Diseases,Cardiology
+557,2414,2036,2024-07-30,Disease Progression,Neurological Conditions,General Medicine
+558,3092,5363,2024-09-27,Complications from Treatment,Infectious Diseases,ICU
+559,3760,2570,2024-12-30,Medication Non-Adherence,Endocrine & Metabolic Disorders,Cardiology
+560,1269,6488,2024-09-05,Uncontrolled Symptoms,Musculoskeletal & Injury-Related Issues,Orthopedics
+561,3928,5270,2024-04-15,Complications from Treatment,Mental Health & Substance Abuse,Orthopedics
+562,4287,1257,2024-05-17,Infection or New-Onset Illness,Cardiovascular Conditions,ICU
+563,355,460,2024-08-29,Medication Non-Adherence,Musculoskeletal & Injury-Related Issues,General Medicine
+564,1961,6900,2024-07-11,Disease Progression,Respiratory Diseases,Orthopedics
+565,2826,4569,2024-09-20,Uncontrolled Symptoms,Mental Health & Substance Abuse,General Medicine
+566,4111,3338,2024-04-15,Uncontrolled Symptoms,Musculoskeletal & Injury-Related Issues,Orthopedics
+567,1945,422,2024-11-17,Infection or New-Onset Illness,Respiratory Diseases,Orthopedics
+568,2599,3429,2024-12-02,Infection or New-Onset Illness,Infectious Diseases,ICU
+569,2161,1787,2024-11-12,Medication Non-Adherence,Cardiovascular Conditions,Orthopedics
+570,1386,1165,2024-01-22,Disease Progression,Mental Health & Substance Abuse,Neurology
+571,2416,3194,2024-04-04,Complications from Treatment,Gastrointestinal Disorders,ICU
+572,1217,3693,2024-12-06,Disease Progression,Infectious Diseases,Orthopedics
+573,779,5015,2024-04-14,Infection or New-Onset Illness,Gastrointestinal Disorders,ICU
+574,1796,3326,2024-04-29,Complications from Treatment,Respiratory Diseases,Cardiology
+575,2773,4617,2024-10-23,Medication Non-Adherence,Infectious Diseases,ICU
+576,3036,202,2024-07-12,Medication Non-Adherence,Infectious Diseases,ICU
+577,1246,4734,2024-01-14,Disease Progression,Musculoskeletal & Injury-Related Issues,Neurology
+578,3260,1696,2024-05-30,Infection or New-Onset Illness,Neurological Conditions,ICU
+579,2797,2215,2024-07-20,Uncontrolled Symptoms,Musculoskeletal & Injury-Related Issues,General Medicine
+580,2401,4028,2024-08-28,Disease Progression,Cardiovascular Conditions,Orthopedics
+581,4337,4299,2024-11-10,Medication Non-Adherence,Neurological Conditions,General Medicine
+582,1150,5566,2024-02-23,Complications from Treatment,Respiratory Diseases,General Medicine
+583,2140,6148,2024-11-18,Medication Non-Adherence,Infectious Diseases,General Medicine
+584,1709,1596,2024-09-28,Uncontrolled Symptoms,Neurological Conditions,Cardiology
+585,919,5471,2024-09-04,Medication Non-Adherence,Cardiovascular Conditions,General Medicine
+586,848,5045,2024-11-07,Infection or New-Onset Illness,Respiratory Diseases,Cardiology
+587,4849,2428,2024-05-10,Medication Non-Adherence,Cardiovascular Conditions,ICU
+588,4573,3277,2024-07-03,Disease Progression,Respiratory Diseases,Neurology
+589,3472,5961,2024-06-09,Infection or New-Onset Illness,Infectious Diseases,ICU
+590,3030,443,2024-05-30,Medication Non-Adherence,Neurological Conditions,Neurology
+591,3528,100,2024-11-04,Medication Non-Adherence,Neurological Conditions,ICU
+592,2594,5585,2024-12-17,Complications from Treatment,Gastrointestinal Disorders,Neurology
+593,2965,696,2024-08-17,Medication Non-Adherence,Infectious Diseases,Orthopedics
+594,736,3553,2024-11-01,Uncontrolled Symptoms,Gastrointestinal Disorders,Orthopedics
+595,3629,3265,2024-05-13,Uncontrolled Symptoms,Infectious Diseases,General Medicine
+596,952,695,2024-08-05,Infection or New-Onset Illness,Endocrine & Metabolic Disorders,Cardiology
+597,4349,377,2024-08-12,Complications from Treatment,Mental Health & Substance Abuse,Orthopedics
+598,1690,4394,2024-08-18,Infection or New-Onset Illness,Gastrointestinal Disorders,ICU
+599,2627,5240,2024-01-18,Uncontrolled Symptoms,Cardiovascular Conditions,General Medicine
+600,3522,886,2024-01-06,Complications from Treatment,Cardiovascular Conditions,Orthopedics
+601,2491,4788,2024-01-20,Complications from Treatment,Musculoskeletal & Injury-Related Issues,Orthopedics
+602,3222,3870,2024-02-08,Uncontrolled Symptoms,Gastrointestinal Disorders,Neurology
+603,3827,1142,2024-06-01,Uncontrolled Symptoms,Musculoskeletal & Injury-Related Issues,Cardiology
+604,4913,3989,2024-01-06,Infection or New-Onset Illness,Infectious Diseases,Neurology
+605,4568,5895,2024-11-29,Disease Progression,Neurological Conditions,Neurology
+606,866,3404,2024-09-09,Complications from Treatment,Neurological Conditions,ICU
+607,4284,5596,2024-02-02,Medication Non-Adherence,Gastrointestinal Disorders,General Medicine
+608,3718,3146,2024-10-13,Medication Non-Adherence,Mental Health & Substance Abuse,ICU
+609,1146,6809,2024-08-30,Uncontrolled Symptoms,Mental Health & Substance Abuse,Cardiology
+610,1598,2331,2024-02-15,Disease Progression,Endocrine & Metabolic Disorders,General Medicine
+611,3377,158,2024-09-17,Infection or New-Onset Illness,Gastrointestinal Disorders,General Medicine
+612,613,2410,2024-02-12,Medication Non-Adherence,Endocrine & Metabolic Disorders,Neurology
+613,140,6152,2024-11-11,Infection or New-Onset Illness,Mental Health & Substance Abuse,Neurology
+614,593,5882,2024-05-09,Infection or New-Onset Illness,Respiratory Diseases,Neurology
+615,1492,4083,2024-09-21,Infection or New-Onset Illness,Neurological Conditions,Neurology
+616,1055,6190,2024-10-26,Disease Progression,Cardiovascular Conditions,General Medicine
+617,3089,6521,2024-10-21,Infection or New-Onset Illness,Cardiovascular Conditions,Neurology
+618,2657,2059,2024-06-09,Disease Progression,Infectious Diseases,ICU
+619,1560,1666,2024-03-08,Infection or New-Onset Illness,Neurological Conditions,Cardiology
+620,2244,4600,2024-04-23,Disease Progression,Endocrine & Metabolic Disorders,Cardiology
+621,1609,4439,2024-11-15,Medication Non-Adherence,Cardiovascular Conditions,General Medicine
+622,2145,949,2024-11-26,Complications from Treatment,Infectious Diseases,Orthopedics
+623,4951,5033,2024-02-19,Complications from Treatment,Mental Health & Substance Abuse,Neurology
+624,3817,6859,2024-06-10,Complications from Treatment,Endocrine & Metabolic Disorders,ICU
+625,4290,6285,2024-12-05,Complications from Treatment,Gastrointestinal Disorders,Orthopedics
+626,3672,5822,2024-02-17,Medication Non-Adherence,Musculoskeletal & Injury-Related Issues,Cardiology
+627,509,1913,2024-01-30,Medication Non-Adherence,Musculoskeletal & Injury-Related Issues,ICU
+628,3564,5768,2024-05-25,Uncontrolled Symptoms,Cardiovascular Conditions,Neurology
+629,2407,6556,2024-07-17,Infection or New-Onset Illness,Infectious Diseases,Cardiology
+630,4351,5994,2024-08-08,Infection or New-Onset Illness,Neurological Conditions,Cardiology
+631,943,6636,2024-02-05,Uncontrolled Symptoms,Neurological Conditions,ICU
+632,4320,3969,2024-11-17,Complications from Treatment,Gastrointestinal Disorders,Cardiology
+633,4204,2961,2024-01-16,Infection or New-Onset Illness,Cardiovascular Conditions,Cardiology
+634,1193,4751,2024-03-18,Disease Progression,Cardiovascular Conditions,ICU
+635,1269,6043,2024-10-10,Uncontrolled Symptoms,Endocrine & Metabolic Disorders,General Medicine
+636,2683,3657,2024-11-15,Disease Progression,Endocrine & Metabolic Disorders,Neurology
+637,4089,6779,2024-08-03,Uncontrolled Symptoms,Mental Health & Substance Abuse,ICU
+638,4937,3743,2024-02-18,Complications from Treatment,Infectious Diseases,ICU
+639,3460,2299,2024-10-05,Uncontrolled Symptoms,Mental Health & Substance Abuse,Cardiology
+640,4847,6454,2024-12-13,Disease Progression,Cardiovascular Conditions,Neurology
+641,4751,2611,2024-01-22,Infection or New-Onset Illness,Respiratory Diseases,Orthopedics
+642,1945,3942,2024-01-20,Infection or New-Onset Illness,Gastrointestinal Disorders,Orthopedics
+643,2180,449,2024-02-05,Uncontrolled Symptoms,Neurological Conditions,Orthopedics
+644,3969,3512,2024-10-23,Disease Progression,Musculoskeletal & Injury-Related Issues,Orthopedics
+645,4958,5701,2024-09-09,Infection or New-Onset Illness,Neurological Conditions,Orthopedics
+646,234,5847,2024-09-14,Disease Progression,Endocrine & Metabolic Disorders,Orthopedics
+647,2919,6908,2024-04-08,Complications from Treatment,Endocrine & Metabolic Disorders,General Medicine
+648,240,872,2024-03-17,Disease Progression,Infectious Diseases,ICU
+649,3123,5128,2024-10-20,Medication Non-Adherence,Gastrointestinal Disorders,Orthopedics
+650,1642,5304,2024-01-16,Disease Progression,Endocrine & Metabolic Disorders,Neurology
+651,4725,1797,2024-03-28,Medication Non-Adherence,Endocrine & Metabolic Disorders,General Medicine
+652,2196,4129,2024-07-19,Disease Progression,Infectious Diseases,Cardiology
+653,3012,6085,2024-09-19,Complications from Treatment,Infectious Diseases,ICU
+654,3573,6946,2024-04-02,Medication Non-Adherence,Gastrointestinal Disorders,Neurology
+655,2642,3645,2024-09-20,Medication Non-Adherence,Cardiovascular Conditions,General Medicine
+656,1589,1167,2024-07-19,Disease Progression,Cardiovascular Conditions,Cardiology
+657,2365,4852,2024-02-06,Complications from Treatment,Gastrointestinal Disorders,Cardiology
+658,190,62,2025-01-01,Disease Progression,Neurological Conditions,General Medicine
+659,913,1606,2024-07-01,Uncontrolled Symptoms,Endocrine & Metabolic Disorders,Orthopedics
+660,286,3938,2024-01-06,Medication Non-Adherence,Cardiovascular Conditions,General Medicine
+661,978,4212,2024-05-23,Infection or New-Onset Illness,Gastrointestinal Disorders,Cardiology
+662,2359,2071,2024-05-07,Disease Progression,Infectious Diseases,Neurology
+663,4076,554,2024-10-27,Disease Progression,Mental Health & Substance Abuse,ICU
+664,1225,1562,2024-06-29,Medication Non-Adherence,Respiratory Diseases,Neurology
+665,4506,5559,2024-01-26,Uncontrolled Symptoms,Neurological Conditions,Cardiology
+666,529,3104,2024-06-14,Uncontrolled Symptoms,Respiratory Diseases,Cardiology
+667,2867,4325,2024-01-27,Complications from Treatment,Infectious Diseases,Cardiology
+668,1197,486,2024-03-06,Infection or New-Onset Illness,Mental Health & Substance Abuse,General Medicine
+669,4886,2501,2024-02-29,Disease Progression,Endocrine & Metabolic Disorders,General Medicine
+670,4623,5268,2024-03-26,Uncontrolled Symptoms,Gastrointestinal Disorders,Orthopedics
+671,4381,5303,2024-05-24,Complications from Treatment,Endocrine & Metabolic Disorders,ICU
+672,1653,1344,2024-10-17,Uncontrolled Symptoms,Mental Health & Substance Abuse,Neurology
+673,4153,2750,2024-12-27,Complications from Treatment,Neurological Conditions,General Medicine
+674,2599,4706,2024-03-17,Medication Non-Adherence,Musculoskeletal & Injury-Related Issues,Cardiology
+675,1455,3049,2024-12-16,Medication Non-Adherence,Neurological Conditions,Cardiology
+676,4409,5801,2024-04-06,Disease Progression,Neurological Conditions,Cardiology
+677,2124,2967,2024-11-29,Disease Progression,Respiratory Diseases,Cardiology
+678,678,5310,2024-03-27,Disease Progression,Endocrine & Metabolic Disorders,General Medicine
+679,3256,1638,2024-05-24,Uncontrolled Symptoms,Infectious Diseases,Orthopedics
+680,788,610,2024-04-14,Complications from Treatment,Respiratory Diseases,Neurology
+681,361,4497,2024-01-05,Uncontrolled Symptoms,Cardiovascular Conditions,General Medicine
+682,4578,1151,2024-06-20,Disease Progression,Infectious Diseases,Cardiology
+683,3842,4764,2024-09-13,Medication Non-Adherence,Gastrointestinal Disorders,Neurology
+684,4330,6715,2024-02-28,Disease Progression,Endocrine & Metabolic Disorders,Orthopedics
+685,263,2201,2024-04-29,Infection or New-Onset Illness,Respiratory Diseases,Orthopedics
+686,1300,682,2024-06-07,Complications from Treatment,Mental Health & Substance Abuse,Cardiology
+687,10,5764,2024-02-29,Medication Non-Adherence,Gastrointestinal Disorders,Cardiology
+688,2169,158,2024-01-11,Uncontrolled Symptoms,Cardiovascular Conditions,Orthopedics
+689,2926,5975,2024-12-02,Disease Progression,Cardiovascular Conditions,Orthopedics
+690,2891,4438,2024-06-14,Infection or New-Onset Illness,Endocrine & Metabolic Disorders,Cardiology
+691,3070,887,2024-10-19,Complications from Treatment,Respiratory Diseases,Neurology
+692,4455,168,2024-06-04,Infection or New-Onset Illness,Musculoskeletal & Injury-Related Issues,Orthopedics
+693,1517,6873,2024-08-24,Medication Non-Adherence,Mental Health & Substance Abuse,Orthopedics
+694,4678,729,2024-10-09,Uncontrolled Symptoms,Neurological Conditions,Orthopedics
+695,1395,4994,2024-06-23,Medication Non-Adherence,Musculoskeletal & Injury-Related Issues,General Medicine
+696,3595,2159,2024-02-04,Medication Non-Adherence,Endocrine & Metabolic Disorders,General Medicine
+697,1089,5556,2024-08-27,Complications from Treatment,Neurological Conditions,Neurology
+698,605,4928,2024-01-09,Disease Progression,Mental Health & Substance Abuse,Orthopedics
+699,1618,280,2024-11-23,Disease Progression,Neurological Conditions,Cardiology
+700,3842,91,2024-03-26,Disease Progression,Neurological Conditions,ICU
+701,3828,5815,2024-11-05,Complications from Treatment,Endocrine & Metabolic Disorders,Orthopedics
+702,2885,3234,2024-12-30,Infection or New-Onset Illness,Infectious Diseases,Cardiology
+703,4961,5572,2024-11-21,Disease Progression,Infectious Diseases,ICU
+704,3338,6531,2024-04-02,Medication Non-Adherence,Musculoskeletal & Injury-Related Issues,Orthopedics
+705,3654,5451,2024-08-18,Medication Non-Adherence,Endocrine & Metabolic Disorders,Neurology
+706,3526,6024,2024-05-23,Infection or New-Onset Illness,Cardiovascular Conditions,General Medicine
+707,3376,2599,2024-08-20,Uncontrolled Symptoms,Respiratory Diseases,Neurology
+708,3949,677,2024-12-18,Infection or New-Onset Illness,Endocrine & Metabolic Disorders,Orthopedics
+709,2717,3344,2024-06-17,Medication Non-Adherence,Respiratory Diseases,Neurology
+710,1648,6754,2024-05-03,Uncontrolled Symptoms,Neurological Conditions,Orthopedics
+711,2488,6293,2024-07-06,Infection or New-Onset Illness,Endocrine & Metabolic Disorders,Neurology
+712,3793,82,2024-07-18,Medication Non-Adherence,Endocrine & Metabolic Disorders,Neurology
+713,2220,1126,2025-01-01,Disease Progression,Musculoskeletal & Injury-Related Issues,Neurology
+714,4840,2288,2024-03-10,Complications from Treatment,Infectious Diseases,Neurology
+715,2513,1921,2024-09-21,Disease Progression,Gastrointestinal Disorders,Cardiology
+716,1457,6702,2024-02-03,Medication Non-Adherence,Mental Health & Substance Abuse,General Medicine
+717,445,5955,2024-11-02,Complications from Treatment,Mental Health & Substance Abuse,Cardiology
+718,520,2618,2024-07-25,Medication Non-Adherence,Neurological Conditions,Cardiology
+719,3824,3157,2024-08-26,Disease Progression,Musculoskeletal & Injury-Related Issues,General Medicine
+720,557,617,2024-05-24,Infection or New-Onset Illness,Respiratory Diseases,Cardiology
+721,3745,1064,2024-06-04,Complications from Treatment,Mental Health & Substance Abuse,ICU
+722,3432,3106,2024-01-21,Infection or New-Onset Illness,Endocrine & Metabolic Disorders,Orthopedics
+723,1138,5070,2024-04-25,Uncontrolled Symptoms,Respiratory Diseases,Neurology
+724,125,3042,2024-01-06,Complications from Treatment,Neurological Conditions,Orthopedics
+725,1908,6695,2024-09-12,Complications from Treatment,Mental Health & Substance Abuse,Orthopedics
+726,3155,1763,2024-07-30,Infection or New-Onset Illness,Cardiovascular Conditions,ICU
+727,3221,6182,2024-02-25,Infection or New-Onset Illness,Neurological Conditions,Cardiology
+728,4194,2867,2024-04-17,Complications from Treatment,Endocrine & Metabolic Disorders,Orthopedics
+729,1507,1600,2024-01-26,Medication Non-Adherence,Infectious Diseases,General Medicine
+730,2803,731,2024-05-21,Infection or New-Onset Illness,Neurological Conditions,General Medicine
+731,4112,1205,2024-04-27,Uncontrolled Symptoms,Infectious Diseases,Neurology
+732,1013,5585,2024-04-07,Uncontrolled Symptoms,Neurological Conditions,Neurology
+733,4788,690,2024-07-23,Infection or New-Onset Illness,Gastrointestinal Disorders,ICU
+734,4193,2405,2024-08-30,Medication Non-Adherence,Respiratory Diseases,Orthopedics
+735,2649,6889,2024-12-23,Complications from Treatment,Musculoskeletal & Injury-Related Issues,Orthopedics
+736,2929,2620,2024-05-14,Infection or New-Onset Illness,Musculoskeletal & Injury-Related Issues,Neurology
+737,1477,2884,2024-06-01,Complications from Treatment,Gastrointestinal Disorders,Cardiology
+738,4159,6165,2024-12-07,Infection or New-Onset Illness,Endocrine & Metabolic Disorders,Orthopedics
+739,4273,3896,2024-11-26,Infection or New-Onset Illness,Endocrine & Metabolic Disorders,Orthopedics
+740,2415,1546,2024-09-30,Medication Non-Adherence,Respiratory Diseases,General Medicine
+741,3674,6665,2024-10-26,Medication Non-Adherence,Neurological Conditions,Cardiology
+742,2145,6602,2024-12-12,Uncontrolled Symptoms,Musculoskeletal & Injury-Related Issues,General Medicine
+743,2477,6327,2024-11-13,Uncontrolled Symptoms,Musculoskeletal & Injury-Related Issues,Orthopedics
+744,387,2265,2024-11-07,Complications from Treatment,Gastrointestinal Disorders,Neurology
+745,1128,2409,2024-07-20,Disease Progression,Gastrointestinal Disorders,ICU
+746,3821,5272,2024-01-02,Infection or New-Onset Illness,Neurological Conditions,Cardiology
+747,2701,4074,2024-11-15,Uncontrolled Symptoms,Gastrointestinal Disorders,Orthopedics
+748,2062,3109,2024-08-24,Uncontrolled Symptoms,Respiratory Diseases,ICU
+749,3565,1198,2024-05-31,Complications from Treatment,Mental Health & Substance Abuse,Orthopedics
+750,4329,3931,2024-01-24,Complications from Treatment,Endocrine & Metabolic Disorders,General Medicine
+751,3463,3374,2024-06-26,Infection or New-Onset Illness,Neurological Conditions,Orthopedics
+752,1620,5693,2024-03-27,Complications from Treatment,Endocrine & Metabolic Disorders,Orthopedics
+753,1997,2951,2024-07-17,Disease Progression,Musculoskeletal & Injury-Related Issues,General Medicine
+754,2372,3965,2024-03-18,Disease Progression,Neurological Conditions,Cardiology
+755,1266,1399,2024-11-06,Disease Progression,Cardiovascular Conditions,Orthopedics
+756,513,303,2024-07-07,Infection or New-Onset Illness,Respiratory Diseases,Orthopedics
+757,1637,1995,2024-03-01,Medication Non-Adherence,Neurological Conditions,ICU
+758,204,2127,2024-04-20,Medication Non-Adherence,Mental Health & Substance Abuse,Neurology
+759,263,639,2024-10-07,Infection or New-Onset Illness,Musculoskeletal & Injury-Related Issues,ICU
+760,4599,1168,2024-08-12,Infection or New-Onset Illness,Mental Health & Substance Abuse,General Medicine
+761,1528,4505,2024-11-09,Disease Progression,Musculoskeletal & Injury-Related Issues,Orthopedics
+762,869,5278,2024-03-10,Disease Progression,Musculoskeletal & Injury-Related Issues,Cardiology
+763,2236,1106,2024-10-06,Uncontrolled Symptoms,Mental Health & Substance Abuse,General Medicine
+764,1887,5900,2024-10-31,Disease Progression,Musculoskeletal & Injury-Related Issues,Orthopedics
+765,3447,3571,2024-03-20,Complications from Treatment,Infectious Diseases,Neurology
+766,1646,2852,2024-09-26,Disease Progression,Cardiovascular Conditions,Neurology
+767,268,4937,2024-01-13,Complications from Treatment,Infectious Diseases,Neurology
+768,2005,6797,2024-05-14,Uncontrolled Symptoms,Respiratory Diseases,ICU
+769,4860,3909,2024-06-27,Medication Non-Adherence,Infectious Diseases,Neurology
+770,4381,6687,2024-03-04,Medication Non-Adherence,Neurological Conditions,Cardiology
+771,2766,6168,2024-10-15,Disease Progression,Musculoskeletal & Injury-Related Issues,ICU
+772,1561,5276,2024-08-28,Complications from Treatment,Cardiovascular Conditions,Neurology
+773,347,5986,2024-02-01,Uncontrolled Symptoms,Musculoskeletal & Injury-Related Issues,ICU
+774,835,5046,2024-02-08,Disease Progression,Mental Health & Substance Abuse,Orthopedics
+775,3021,3884,2024-02-29,Medication Non-Adherence,Musculoskeletal & Injury-Related Issues,General Medicine
+776,276,2462,2024-10-10,Disease Progression,Endocrine & Metabolic Disorders,ICU
+777,404,3935,2024-05-03,Infection or New-Onset Illness,Respiratory Diseases,General Medicine
+778,4763,1180,2024-01-16,Medication Non-Adherence,Mental Health & Substance Abuse,Neurology
+779,4603,5290,2024-08-22,Disease Progression,Infectious Diseases,Neurology
+780,2200,6840,2024-08-14,Infection or New-Onset Illness,Neurological Conditions,General Medicine
+781,381,6883,2024-01-19,Disease Progression,Cardiovascular Conditions,Neurology
+782,2550,953,2024-12-22,Disease Progression,Cardiovascular Conditions,Neurology
+783,1633,2993,2024-08-07,Uncontrolled Symptoms,Mental Health & Substance Abuse,Cardiology
+784,1701,5451,2024-06-15,Uncontrolled Symptoms,Neurological Conditions,Neurology
+785,2620,4224,2024-02-11,Infection or New-Onset Illness,Cardiovascular Conditions,Neurology
+786,4835,2749,2024-06-30,Infection or New-Onset Illness,Mental Health & Substance Abuse,Orthopedics
+787,1103,5412,2024-10-08,Infection or New-Onset Illness,Musculoskeletal & Injury-Related Issues,General Medicine
+788,3415,748,2024-12-03,Infection or New-Onset Illness,Gastrointestinal Disorders,Neurology
+789,2460,5612,2024-03-24,Complications from Treatment,Cardiovascular Conditions,Orthopedics
+790,3477,6895,2024-03-20,Disease Progression,Respiratory Diseases,General Medicine
+791,1948,761,2024-06-30,Uncontrolled Symptoms,Neurological Conditions,Orthopedics
+792,4252,958,2024-04-01,Disease Progression,Mental Health & Substance Abuse,Cardiology
+793,1644,3448,2024-01-01,Uncontrolled Symptoms,Endocrine & Metabolic Disorders,General Medicine
+794,109,1939,2024-06-03,Disease Progression,Mental Health & Substance Abuse,Neurology
+795,3356,6427,2024-01-06,Infection or New-Onset Illness,Infectious Diseases,General Medicine
+796,4559,3360,2024-08-21,Infection or New-Onset Illness,Gastrointestinal Disorders,Neurology
+797,3207,5886,2024-02-08,Medication Non-Adherence,Gastrointestinal Disorders,Orthopedics
+798,2783,123,2024-09-28,Uncontrolled Symptoms,Respiratory Diseases,Cardiology
+799,3335,120,2024-02-11,Infection or New-Onset Illness,Neurological Conditions,ICU
+800,2039,4665,2024-05-02,Infection or New-Onset Illness,Musculoskeletal & Injury-Related Issues,ICU
+801,4532,5364,2024-03-06,Infection or New-Onset Illness,Endocrine & Metabolic Disorders,Cardiology
+802,4120,4199,2024-02-12,Infection or New-Onset Illness,Gastrointestinal Disorders,Cardiology
+803,72,6181,2024-11-18,Infection or New-Onset Illness,Respiratory Diseases,Cardiology
+804,3707,1597,2024-01-16,Infection or New-Onset Illness,Cardiovascular Conditions,ICU
+805,2053,4973,2024-08-04,Uncontrolled Symptoms,Musculoskeletal & Injury-Related Issues,Orthopedics
+806,515,5030,2024-03-15,Complications from Treatment,Neurological Conditions,Neurology
+807,1012,237,2024-04-20,Medication Non-Adherence,Neurological Conditions,Orthopedics
+808,2060,5876,2024-02-07,Uncontrolled Symptoms,Cardiovascular Conditions,ICU
+809,3278,5703,2024-01-20,Disease Progression,Endocrine & Metabolic Disorders,ICU
+810,4919,4306,2024-03-16,Medication Non-Adherence,Respiratory Diseases,Orthopedics
+811,2431,2900,2024-10-22,Disease Progression,Cardiovascular Conditions,Orthopedics
+812,4906,6264,2024-04-10,Disease Progression,Gastrointestinal Disorders,ICU
+813,143,3654,2024-11-26,Uncontrolled Symptoms,Gastrointestinal Disorders,ICU
+814,1568,1593,2024-01-02,Infection or New-Onset Illness,Cardiovascular Conditions,Cardiology
+815,329,1732,2024-02-09,Uncontrolled Symptoms,Respiratory Diseases,General Medicine
+816,229,4271,2024-06-04,Infection or New-Onset Illness,Cardiovascular Conditions,General Medicine
+817,728,5456,2024-05-09,Uncontrolled Symptoms,Mental Health & Substance Abuse,General Medicine
+818,1807,6658,2024-12-04,Medication Non-Adherence,Cardiovascular Conditions,General Medicine
+819,4629,4991,2024-11-30,Disease Progression,Mental Health & Substance Abuse,General Medicine
+820,3635,1468,2024-07-21,Uncontrolled Symptoms,Infectious Diseases,Cardiology
+821,4571,6305,2024-01-21,Complications from Treatment,Cardiovascular Conditions,Cardiology
+822,4780,889,2024-04-13,Medication Non-Adherence,Endocrine & Metabolic Disorders,ICU
+823,4601,5079,2024-12-30,Medication Non-Adherence,Infectious Diseases,General Medicine
+824,2164,5374,2024-05-26,Disease Progression,Endocrine & Metabolic Disorders,ICU
+825,69,5483,2024-12-26,Infection or New-Onset Illness,Neurological Conditions,Orthopedics
+826,696,5630,2024-07-24,Medication Non-Adherence,Endocrine & Metabolic Disorders,Cardiology
+827,1062,4793,2024-09-22,Medication Non-Adherence,Gastrointestinal Disorders,ICU
+828,1630,4452,2024-05-29,Disease Progression,Cardiovascular Conditions,ICU
+829,730,848,2024-12-31,Medication Non-Adherence,Neurological Conditions,Neurology
+830,2404,3725,2024-12-03,Infection or New-Onset Illness,Mental Health & Substance Abuse,Neurology
+831,1494,799,2024-11-20,Medication Non-Adherence,Gastrointestinal Disorders,General Medicine
+832,4415,5210,2024-04-25,Uncontrolled Symptoms,Gastrointestinal Disorders,Cardiology
+833,1516,4160,2024-06-25,Complications from Treatment,Gastrointestinal Disorders,Cardiology
+834,2445,22,2024-09-20,Infection or New-Onset Illness,Gastrointestinal Disorders,Neurology
+835,69,6305,2024-02-07,Disease Progression,Cardiovascular Conditions,ICU
+836,802,2821,2024-10-08,Complications from Treatment,Neurological Conditions,ICU
+837,2741,3967,2024-08-18,Disease Progression,Endocrine & Metabolic Disorders,ICU
+838,4102,5306,2024-04-24,Infection or New-Onset Illness,Neurological Conditions,Cardiology
+839,134,974,2024-05-19,Complications from Treatment,Cardiovascular Conditions,General Medicine
+840,3297,3539,2024-03-07,Disease Progression,Endocrine & Metabolic Disorders,Neurology
+841,598,1156,2024-10-09,Complications from Treatment,Musculoskeletal & Injury-Related Issues,Orthopedics
+842,1391,2876,2024-06-06,Medication Non-Adherence,Musculoskeletal & Injury-Related Issues,Cardiology
+843,4959,2527,2024-11-20,Uncontrolled Symptoms,Infectious Diseases,General Medicine
+844,2578,4677,2024-05-16,Disease Progression,Neurological Conditions,Neurology
+845,4802,6044,2024-07-02,Uncontrolled Symptoms,Respiratory Diseases,ICU
+846,1451,913,2024-06-21,Medication Non-Adherence,Musculoskeletal & Injury-Related Issues,ICU
+847,3453,1139,2024-10-17,Medication Non-Adherence,Mental Health & Substance Abuse,Cardiology
+848,4114,5568,2024-04-11,Uncontrolled Symptoms,Respiratory Diseases,Orthopedics
+849,4739,5475,2024-03-31,Medication Non-Adherence,Gastrointestinal Disorders,Cardiology
+850,477,4268,2024-07-01,Infection or New-Onset Illness,Cardiovascular Conditions,ICU
+851,555,6838,2024-07-05,Complications from Treatment,Neurological Conditions,Orthopedics
+852,2852,1003,2024-06-11,Disease Progression,Respiratory Diseases,Neurology
+853,401,1328,2024-03-30,Medication Non-Adherence,Endocrine & Metabolic Disorders,Orthopedics
+854,3765,346,2024-11-30,Uncontrolled Symptoms,Cardiovascular Conditions,General Medicine
+855,2023,1623,2024-03-12,Uncontrolled Symptoms,Endocrine & Metabolic Disorders,ICU
+856,2752,6151,2024-03-04,Disease Progression,Neurological Conditions,Orthopedics
+857,40,4866,2024-01-06,Disease Progression,Respiratory Diseases,ICU
+858,1338,805,2024-02-08,Disease Progression,Neurological Conditions,ICU
+859,2148,1023,2024-09-30,Infection or New-Onset Illness,Gastrointestinal Disorders,Cardiology
+860,4240,1309,2024-10-13,Complications from Treatment,Neurological Conditions,General Medicine
+861,3513,5899,2024-08-07,Infection or New-Onset Illness,Mental Health & Substance Abuse,ICU
+862,1935,1257,2024-08-11,Medication Non-Adherence,Cardiovascular Conditions,ICU
+863,78,6832,2024-11-24,Medication Non-Adherence,Gastrointestinal Disorders,ICU
+864,4377,2683,2024-07-02,Medication Non-Adherence,Endocrine & Metabolic Disorders,Cardiology
+865,129,1608,2024-01-29,Complications from Treatment,Cardiovascular Conditions,ICU
+866,628,2907,2024-03-18,Infection or New-Onset Illness,Infectious Diseases,ICU
+867,2065,3264,2024-10-29,Infection or New-Onset Illness,Mental Health & Substance Abuse,Orthopedics
+868,4219,136,2024-11-30,Disease Progression,Musculoskeletal & Injury-Related Issues,General Medicine
+869,3696,671,2024-07-31,Medication Non-Adherence,Endocrine & Metabolic Disorders,ICU
+870,1286,4063,2024-03-21,Uncontrolled Symptoms,Respiratory Diseases,ICU
+871,3755,3441,2024-10-12,Uncontrolled Symptoms,Respiratory Diseases,Orthopedics
+872,3620,4203,2024-12-19,Complications from Treatment,Musculoskeletal & Injury-Related Issues,Cardiology
+873,4865,257,2024-02-29,Infection or New-Onset Illness,Neurological Conditions,Cardiology
+874,2979,1887,2024-08-10,Disease Progression,Cardiovascular Conditions,General Medicine
+875,2380,5375,2024-02-02,Disease Progression,Gastrointestinal Disorders,Neurology
+876,2021,2162,2024-08-30,Complications from Treatment,Gastrointestinal Disorders,ICU
+877,143,3054,2024-04-22,Disease Progression,Endocrine & Metabolic Disorders,General Medicine
+878,1556,4276,2024-02-04,Complications from Treatment,Respiratory Diseases,General Medicine
+879,1161,4273,2024-08-10,Complications from Treatment,Neurological Conditions,Cardiology
+880,4793,5666,2024-07-18,Disease Progression,Mental Health & Substance Abuse,General Medicine
+881,1014,5744,2024-11-02,Medication Non-Adherence,Infectious Diseases,Neurology
+882,3908,1653,2024-01-08,Uncontrolled Symptoms,Mental Health & Substance Abuse,ICU
+883,4327,756,2024-09-01,Infection or New-Onset Illness,Respiratory Diseases,Cardiology
+884,4313,1614,2024-09-13,Uncontrolled Symptoms,Gastrointestinal Disorders,ICU
+885,2963,6591,2024-05-13,Infection or New-Onset Illness,Musculoskeletal & Injury-Related Issues,General Medicine
+886,3054,400,2024-02-27,Medication Non-Adherence,Respiratory Diseases,Orthopedics
+887,509,2963,2024-01-03,Disease Progression,Gastrointestinal Disorders,Cardiology
+888,424,6148,2024-03-31,Disease Progression,Mental Health & Substance Abuse,General Medicine
+889,2863,843,2024-02-17,Complications from Treatment,Endocrine & Metabolic Disorders,General Medicine
+890,383,3870,2024-02-13,Disease Progression,Infectious Diseases,Neurology
+891,4447,748,2024-07-19,Medication Non-Adherence,Gastrointestinal Disorders,Neurology
+892,2825,2544,2024-05-01,Medication Non-Adherence,Endocrine & Metabolic Disorders,Cardiology
+893,2137,1871,2024-11-08,Disease Progression,Gastrointestinal Disorders,Neurology
+894,3313,5533,2024-05-08,Infection or New-Onset Illness,Respiratory Diseases,General Medicine
+895,2429,3589,2024-12-17,Complications from Treatment,Mental Health & Substance Abuse,Orthopedics
+896,4829,4815,2024-08-04,Complications from Treatment,Respiratory Diseases,Neurology
+897,1068,3043,2024-12-30,Medication Non-Adherence,Mental Health & Substance Abuse,General Medicine
+898,1156,5641,2024-07-28,Uncontrolled Symptoms,Respiratory Diseases,ICU
+899,2249,3917,2024-10-04,Infection or New-Onset Illness,Endocrine & Metabolic Disorders,ICU
+900,4110,2406,2024-09-30,Infection or New-Onset Illness,Infectious Diseases,General Medicine
+901,618,5924,2024-02-08,Uncontrolled Symptoms,Infectious Diseases,General Medicine
+902,3659,5734,2024-04-28,Disease Progression,Musculoskeletal & Injury-Related Issues,Cardiology
+903,2671,4602,2024-09-01,Uncontrolled Symptoms,Endocrine & Metabolic Disorders,Neurology
+904,265,6122,2024-12-11,Disease Progression,Neurological Conditions,Neurology
+905,314,4827,2024-12-31,Complications from Treatment,Endocrine & Metabolic Disorders,Neurology
+906,2425,2227,2024-01-08,Uncontrolled Symptoms,Respiratory Diseases,General Medicine
+907,3537,1576,2024-11-09,Complications from Treatment,Neurological Conditions,Cardiology
+908,1606,2885,2024-03-08,Disease Progression,Musculoskeletal & Injury-Related Issues,Orthopedics
+909,1107,3240,2024-03-07,Infection or New-Onset Illness,Gastrointestinal Disorders,Orthopedics
+910,2210,4006,2024-03-08,Complications from Treatment,Gastrointestinal Disorders,Neurology
+911,2402,5475,2024-12-19,Disease Progression,Musculoskeletal & Injury-Related Issues,Cardiology
+912,113,6268,2024-12-18,Uncontrolled Symptoms,Respiratory Diseases,Neurology
+913,111,5865,2024-09-13,Complications from Treatment,Endocrine & Metabolic Disorders,Orthopedics
+914,1727,2237,2024-09-24,Complications from Treatment,Gastrointestinal Disorders,ICU
+915,4753,3649,2024-10-15,Uncontrolled Symptoms,Endocrine & Metabolic Disorders,ICU
+916,2814,5604,2024-12-29,Infection or New-Onset Illness,Neurological Conditions,Cardiology
+917,2211,1130,2024-06-30,Complications from Treatment,Infectious Diseases,Orthopedics
+918,385,6400,2024-03-28,Infection or New-Onset Illness,Musculoskeletal & Injury-Related Issues,Cardiology
+919,2910,4482,2024-02-29,Complications from Treatment,Gastrointestinal Disorders,Neurology
+920,3102,6706,2024-08-11,Infection or New-Onset Illness,Endocrine & Metabolic Disorders,ICU
+921,1102,762,2024-01-19,Complications from Treatment,Infectious Diseases,General Medicine
+922,4663,1292,2024-05-30,Disease Progression,Neurological Conditions,Orthopedics
+923,692,3399,2024-08-08,Infection or New-Onset Illness,Infectious Diseases,General Medicine
+924,4048,6543,2024-05-03,Uncontrolled Symptoms,Gastrointestinal Disorders,Neurology
+925,2888,5452,2024-10-09,Disease Progression,Musculoskeletal & Injury-Related Issues,Neurology
+926,1643,6128,2024-03-23,Medication Non-Adherence,Infectious Diseases,Orthopedics
+927,1088,4899,2024-08-17,Disease Progression,Endocrine & Metabolic Disorders,Neurology
+928,2787,6891,2024-11-29,Medication Non-Adherence,Musculoskeletal & Injury-Related Issues,ICU
+929,2775,6884,2024-06-02,Complications from Treatment,Respiratory Diseases,Orthopedics
+930,1887,1974,2024-01-21,Disease Progression,Musculoskeletal & Injury-Related Issues,Orthopedics
+931,3306,966,2024-11-12,Complications from Treatment,Mental Health & Substance Abuse,General Medicine
+932,1209,166,2024-11-07,Uncontrolled Symptoms,Gastrointestinal Disorders,Cardiology
+933,1981,2697,2024-10-27,Infection or New-Onset Illness,Gastrointestinal Disorders,ICU
+934,1013,5174,2024-06-13,Uncontrolled Symptoms,Mental Health & Substance Abuse,Cardiology
+935,2811,6023,2024-08-12,Uncontrolled Symptoms,Cardiovascular Conditions,Orthopedics
+936,3088,6807,2024-11-01,Medication Non-Adherence,Infectious Diseases,General Medicine
+937,1297,5387,2024-09-27,Disease Progression,Neurological Conditions,Neurology
+938,3590,6395,2024-07-17,Disease Progression,Mental Health & Substance Abuse,Neurology
+939,3884,653,2024-05-05,Complications from Treatment,Neurological Conditions,General Medicine
+940,1765,5788,2024-11-27,Complications from Treatment,Infectious Diseases,Orthopedics
+941,431,4250,2024-12-19,Medication Non-Adherence,Infectious Diseases,Orthopedics
+942,4909,6757,2024-08-19,Disease Progression,Cardiovascular Conditions,Orthopedics
+943,3024,1543,2024-05-17,Uncontrolled Symptoms,Neurological Conditions,General Medicine
+944,570,5191,2024-04-19,Uncontrolled Symptoms,Infectious Diseases,Cardiology
+945,165,578,2024-07-22,Infection or New-Onset Illness,Respiratory Diseases,Orthopedics
+946,2838,4408,2024-12-17,Complications from Treatment,Cardiovascular Conditions,Cardiology
+947,4550,6597,2024-03-06,Uncontrolled Symptoms,Mental Health & Substance Abuse,Neurology
+948,3463,3142,2024-03-28,Uncontrolled Symptoms,Endocrine & Metabolic Disorders,Neurology
+949,4379,2880,2024-06-03,Medication Non-Adherence,Endocrine & Metabolic Disorders,General Medicine
+950,251,5594,2024-10-14,Medication Non-Adherence,Respiratory Diseases,ICU
+951,4144,671,2024-07-09,Complications from Treatment,Respiratory Diseases,General Medicine
+952,4599,3889,2024-01-20,Medication Non-Adherence,Cardiovascular Conditions,Orthopedics
+953,2526,2773,2024-02-15,Medication Non-Adherence,Endocrine & Metabolic Disorders,Orthopedics
+954,2874,733,2024-08-26,Disease Progression,Mental Health & Substance Abuse,Orthopedics
+955,1551,1044,2024-05-04,Disease Progression,Neurological Conditions,Neurology
+956,4,2077,2024-03-22,Uncontrolled Symptoms,Endocrine & Metabolic Disorders,Orthopedics
+957,957,2590,2024-04-14,Disease Progression,Respiratory Diseases,ICU
+958,2997,6656,2024-10-04,Uncontrolled Symptoms,Musculoskeletal & Injury-Related Issues,ICU
+959,4971,4610,2024-07-17,Disease Progression,Musculoskeletal & Injury-Related Issues,Neurology
+960,3593,3799,2024-03-21,Medication Non-Adherence,Infectious Diseases,Cardiology
+961,1762,5251,2024-03-24,Complications from Treatment,Mental Health & Substance Abuse,General Medicine
+962,3032,5802,2024-01-24,Medication Non-Adherence,Cardiovascular Conditions,General Medicine
+963,4874,25,2024-09-27,Medication Non-Adherence,Neurological Conditions,Orthopedics
+964,678,6013,2024-04-22,Medication Non-Adherence,Mental Health & Substance Abuse,ICU
+965,3824,5683,2024-03-26,Infection or New-Onset Illness,Cardiovascular Conditions,Orthopedics
+966,298,5641,2024-07-06,Complications from Treatment,Respiratory Diseases,Neurology
+967,1842,2660,2024-10-27,Medication Non-Adherence,Mental Health & Substance Abuse,Cardiology
+968,816,5826,2024-08-05,Medication Non-Adherence,Musculoskeletal & Injury-Related Issues,Orthopedics
+969,3922,5701,2024-02-16,Complications from Treatment,Endocrine & Metabolic Disorders,Cardiology
+970,4500,2212,2024-06-26,Infection or New-Onset Illness,Cardiovascular Conditions,Orthopedics
+971,464,2325,2024-03-31,Infection or New-Onset Illness,Respiratory Diseases,Orthopedics
+972,1928,6831,2024-10-30,Infection or New-Onset Illness,Musculoskeletal & Injury-Related Issues,Orthopedics
+973,2457,1976,2024-08-23,Medication Non-Adherence,Respiratory Diseases,Orthopedics
+974,2616,1370,2024-02-13,Medication Non-Adherence,Cardiovascular Conditions,Neurology
+975,1939,4358,2024-02-05,Disease Progression,Infectious Diseases,Cardiology
+976,2104,610,2024-10-29,Medication Non-Adherence,Cardiovascular Conditions,ICU
+977,2547,3044,2024-01-25,Disease Progression,Cardiovascular Conditions,ICU
+978,3482,1657,2024-09-14,Disease Progression,Endocrine & Metabolic Disorders,Orthopedics
+979,3729,1300,2024-04-01,Uncontrolled Symptoms,Gastrointestinal Disorders,Cardiology
+980,3929,4502,2024-01-21,Infection or New-Onset Illness,Endocrine & Metabolic Disorders,General Medicine
+981,41,2764,2024-10-13,Uncontrolled Symptoms,Cardiovascular Conditions,Orthopedics
+982,877,3304,2024-04-23,Medication Non-Adherence,Mental Health & Substance Abuse,Cardiology
+983,606,2172,2024-07-17,Complications from Treatment,Gastrointestinal Disorders,General Medicine
+984,4309,6809,2024-05-07,Uncontrolled Symptoms,Musculoskeletal & Injury-Related Issues,ICU
+985,2260,6658,2024-06-28,Uncontrolled Symptoms,Infectious Diseases,Cardiology
+986,1102,3993,2024-08-02,Uncontrolled Symptoms,Respiratory Diseases,Orthopedics
+987,354,917,2024-12-04,Complications from Treatment,Infectious Diseases,ICU
+988,4538,5996,2024-07-26,Complications from Treatment,Cardiovascular Conditions,Cardiology
+989,3289,2996,2024-09-12,Medication Non-Adherence,Mental Health & Substance Abuse,Neurology
+990,2001,2489,2024-10-25,Infection or New-Onset Illness,Mental Health & Substance Abuse,General Medicine
+991,4421,807,2024-10-08,Complications from Treatment,Neurological Conditions,Cardiology
+992,1707,3859,2024-08-10,Disease Progression,Infectious Diseases,Cardiology
+993,3133,6036,2024-07-18,Disease Progression,Endocrine & Metabolic Disorders,Orthopedics
+994,177,2831,2024-12-25,Uncontrolled Symptoms,Musculoskeletal & Injury-Related Issues,General Medicine
+995,3235,3877,2024-08-19,Uncontrolled Symptoms,Cardiovascular Conditions,General Medicine
+996,1210,107,2024-11-07,Medication Non-Adherence,Respiratory Diseases,General Medicine
+997,3888,5359,2024-10-15,Uncontrolled Symptoms,Musculoskeletal & Injury-Related Issues,ICU
+998,452,1552,2024-03-14,Medication Non-Adherence,Gastrointestinal Disorders,Neurology
+999,2870,1891,2024-06-28,Complications from Treatment,Cardiovascular Conditions,Neurology
+1000,3494,4153,2024-02-04,Uncontrolled Symptoms,Respiratory Diseases,Orthopedics
+1001,2908,2937,2024-09-04,Infection or New-Onset Illness,Cardiovascular Conditions,General Medicine
+1002,1002,6399,2024-12-31,Infection or New-Onset Illness,Cardiovascular Conditions,Neurology
+1003,2668,676,2024-11-20,Disease Progression,Musculoskeletal & Injury-Related Issues,Orthopedics
+1004,2495,3802,2024-04-28,Medication Non-Adherence,Infectious Diseases,Orthopedics
+1005,3135,2889,2024-05-13,Uncontrolled Symptoms,Gastrointestinal Disorders,Cardiology
+1006,2308,967,2024-02-19,Disease Progression,Musculoskeletal & Injury-Related Issues,General Medicine
+1007,4717,1239,2024-10-31,Uncontrolled Symptoms,Gastrointestinal Disorders,Orthopedics
+1008,1296,3271,2024-02-13,Uncontrolled Symptoms,Musculoskeletal & Injury-Related Issues,Orthopedics
+1009,2274,6864,2024-07-17,Uncontrolled Symptoms,Neurological Conditions,Orthopedics
+1010,1104,6167,2024-05-25,Medication Non-Adherence,Mental Health & Substance Abuse,Cardiology
+1011,4236,6825,2024-03-19,Complications from Treatment,Infectious Diseases,Cardiology
+1012,1386,4414,2024-04-25,Uncontrolled Symptoms,Mental Health & Substance Abuse,ICU
+1013,1189,3391,2024-08-12,Complications from Treatment,Infectious Diseases,Cardiology
+1014,2076,2334,2024-06-22,Uncontrolled Symptoms,Neurological Conditions,General Medicine
+1015,1775,5230,2024-07-30,Complications from Treatment,Respiratory Diseases,General Medicine
+1016,4077,4010,2024-03-30,Complications from Treatment,Respiratory Diseases,Neurology
+1017,3677,230,2024-02-16,Complications from Treatment,Endocrine & Metabolic Disorders,Orthopedics
+1018,2200,2668,2024-10-25,Uncontrolled Symptoms,Neurological Conditions,Neurology
+1019,3535,2820,2024-08-13,Medication Non-Adherence,Gastrointestinal Disorders,Neurology
+1020,2301,4077,2024-02-21,Disease Progression,Cardiovascular Conditions,Neurology
+1021,1440,1073,2024-03-20,Medication Non-Adherence,Musculoskeletal & Injury-Related Issues,Cardiology
+1022,3330,1275,2024-09-04,Disease Progression,Gastrointestinal Disorders,Neurology
+1023,3640,3994,2024-05-20,Disease Progression,Neurological Conditions,Cardiology
+1024,1417,317,2024-09-28,Disease Progression,Neurological Conditions,General Medicine
+1025,2615,765,2024-07-08,Complications from Treatment,Gastrointestinal Disorders,ICU
+1026,1364,5182,2024-09-24,Infection or New-Onset Illness,Infectious Diseases,Cardiology
+1027,2292,2134,2024-11-04,Complications from Treatment,Mental Health & Substance Abuse,General Medicine
+1028,1987,1607,2024-04-21,Infection or New-Onset Illness,Endocrine & Metabolic Disorders,General Medicine
+1029,4346,293,2024-04-09,Uncontrolled Symptoms,Infectious Diseases,Orthopedics
+1030,4822,4721,2024-01-07,Disease Progression,Gastrointestinal Disorders,General Medicine
+1031,4669,2631,2024-12-07,Disease Progression,Respiratory Diseases,ICU
+1032,3088,6380,2024-08-03,Uncontrolled Symptoms,Respiratory Diseases,ICU
+1033,4697,6738,2024-12-28,Infection or New-Onset Illness,Musculoskeletal & Injury-Related Issues,Cardiology
+1034,3342,1376,2024-04-02,Medication Non-Adherence,Cardiovascular Conditions,Cardiology
+1035,2084,6021,2024-12-18,Disease Progression,Mental Health & Substance Abuse,General Medicine
+1036,4,3780,2024-01-20,Uncontrolled Symptoms,Musculoskeletal & Injury-Related Issues,Neurology
+1037,2282,2164,2024-02-29,Uncontrolled Symptoms,Infectious Diseases,Cardiology
+1038,135,3888,2024-04-02,Uncontrolled Symptoms,Endocrine & Metabolic Disorders,ICU
+1039,2214,1385,2024-07-12,Medication Non-Adherence,Endocrine & Metabolic Disorders,Neurology
+1040,2570,450,2024-11-26,Medication Non-Adherence,Musculoskeletal & Injury-Related Issues,Orthopedics
+1041,2195,2453,2024-12-03,Medication Non-Adherence,Respiratory Diseases,Neurology
+1042,605,623,2024-01-31,Uncontrolled Symptoms,Mental Health & Substance Abuse,General Medicine
+1043,3440,2031,2024-11-11,Uncontrolled Symptoms,Cardiovascular Conditions,Neurology
+1044,2363,5546,2024-03-03,Medication Non-Adherence,Endocrine & Metabolic Disorders,Orthopedics
+1045,3894,8,2024-04-26,Medication Non-Adherence,Gastrointestinal Disorders,ICU
+1046,3238,1669,2024-06-02,Complications from Treatment,Mental Health & Substance Abuse,ICU
+1047,2318,2415,2024-10-30,Medication Non-Adherence,Musculoskeletal & Injury-Related Issues,Orthopedics
+1048,2413,392,2024-10-11,Infection or New-Onset Illness,Mental Health & Substance Abuse,Cardiology
+1049,2162,1506,2024-12-10,Uncontrolled Symptoms,Gastrointestinal Disorders,General Medicine
+1050,2083,2342,2024-07-09,Medication Non-Adherence,Musculoskeletal & Injury-Related Issues,Orthopedics
