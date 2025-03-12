@@ -34,7 +34,7 @@ This data is returned as pandas DataFrames and passed on to the next stage.
 
 ### Transform
 
-The [**transform.py**](ETL%20Pipeline/python_files/transform.py){:target="_blank"} script cleans and prepares the data:
+The [**transform.py**](ETL%20Pipeline/python_files/transform.py) script cleans and prepares the data:
 - It handles missing values by filling them with default values.
 - It corrects invalid data types and ensures proper formatting.
 - It removes duplicate rows from the datasets.
