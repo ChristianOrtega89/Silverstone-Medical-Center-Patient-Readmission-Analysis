@@ -88,9 +88,3 @@ order by a.admission_month;
 
 ### Interactive Tableau Dashboard
 [Click here to view the full dashboard](https://public.tableau.com/views/SilverstoneMedicalCenterPatientReadmissionsOverview/FullDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-
-
-```python
-
-```
