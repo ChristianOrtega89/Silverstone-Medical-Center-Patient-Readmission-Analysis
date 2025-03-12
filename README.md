@@ -3,9 +3,9 @@
 ## Overview
 Patient readmission rates are costly and can often indicate gaps in patient care and hospital efficiency. This project analyzes readmission trends for Silverstone Medical Center from 2024 to 2025, identifies key contributing factors, and provides data-driven business recommendations to reduce future readmission rates. The project consists of:
 
-- An ETL pipeline (Python, PostgreSQL) [Pipeline Documentation] ()
-- Data Exploration (SQL) [DB SQL Code] ( )
-- Visualization (Tableau) [Full Dashboard] ( )
+- An ETL pipeline (Python, PostgreSQL) [Pipeline Documentation](ETL%20Pipeline/README.md)
+- Data Exploration (SQL) [DB SQL Code](SQL%20Queries/Silverstone%20Queries.sql)
+- Visualization (Tableau) [Full Dashboard](https://public.tableau.com/views/SilverstoneMedicalCenterPatientReadmissionsOverview/FullDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Business Question
 What factors contributed to the spike in hospital readmissions in July 2024, and what actionable recommendations can we make to reduce future readmissions?
