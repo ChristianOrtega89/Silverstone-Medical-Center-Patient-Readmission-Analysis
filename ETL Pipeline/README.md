@@ -24,7 +24,7 @@ The pipeline is made up of several Python files located in the `/python_files` f
 
 ### Extract
 
-The [**extract.py**](ETL%20Pipeline/python_files/extract.py) script loads data from the following CSV files in the `data/` folder:
+The [**extract.py**](python_files/extract.py) script loads data from the following CSV files in the `data/` folder:
 - `patients.csv`
 - `modified_admissions.csv`
 - `modified_readmissions.csv`
@@ -34,7 +34,7 @@ This data is returned as pandas DataFrames and passed on to the next stage.
 
 ### Transform
 
-The [**transform.py**](ETL%20Pipeline/python_files/transform.py) script cleans and prepares the data:
+The [**transform.py**](python_files/transform.py) script cleans and prepares the data:
 - It handles missing values by filling them with default values.
 - It corrects invalid data types and ensures proper formatting.
 - It removes duplicate rows from the datasets.
