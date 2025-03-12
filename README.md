@@ -84,7 +84,7 @@ from admissions a
 group by a.admission_month 
 order by a.admission_month;
 ```
-[DB SQL code](SQL%20Queries/Silverstone%20Queries)
+[DB SQL code](SQL%20Queries/Silverstone%20Queries.sql)
 
 ### Interactive Tableau Dashboard
 [Click here to view the full dashboard](https://public.tableau.com/views/SilverstoneMedicalCenterPatientReadmissionsOverview/FullDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
