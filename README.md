@@ -3,9 +3,9 @@
 ## Overview
 Patient readmission rates are costly and can often indicate gaps in patient care and hospital efficiency. This project analyzes readmission trends for Silverstone Medical Center from 2024 to 2025, identifies key contributing factors, and provides data-driven business recommendations to reduce future readmission rates. The project consists of:
 
-- An ETL pipeline (Python, PostgreSQL) [Pipeline Documentation] ()
-- Data Exploration (SQL) [DB SQL Code] ( )
-- Visualization (Tableau) [Full Dashboard] ( )
+- An ETL pipeline (Python, PostgreSQL) [Pipeline Documentation](ETL%20Pipeline/README.md)
+- Data Exploration (SQL) [DB SQL Code](SQL%20Queries/Silverstone%20Queries.sql)
+- Visualization (Tableau) [Full Dashboard](https://public.tableau.com/views/SilverstoneMedicalCenterPatientReadmissionsOverview/FullDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Business Question
 What factors contributed to the spike in hospital readmissions in July 2024, and what actionable recommendations can we make to reduce future readmissions?
@@ -19,14 +19,14 @@ What factors contributed to the spike in hospital readmissions in July 2024, and
 ### Readmission Rates Over Time
 From our data, we observe a **33% spike** in hospital readmissions from June to July 2024.
 
-![Readmission Trend](images/readmission_trend.png)
+![Readmission Trend](Images/readmission_trend.png)
 
 Readmission rates increased from **18.1% to 24%** from June to July.
 
 ### Average Length of Stay
 A deeper analysis reveals a correlation between the **average length of hospital stay** and the **readmission rate**.  
 
-![Length of Stay](images/length_of_stay.png)
+![Length of Stay](Images/length_of_stay.png)
 
 The average length of stay dropped from **5.1 days to 2.1 days** from June to July.  
 Shorter hospital stays may have led to **premature discharges**, causing more readmissions.
@@ -34,17 +34,17 @@ Shorter hospital stays may have led to **premature discharges**, causing more re
 ### Bed Occupancy Percentage
 The highest readmission rate (**24%**) occurred during the **peak bed occupancy** for 2024 in July.  
 
-![Bed Occupancy vs Readmissions](images/readmissions_vs_bed_occupancy.png)
+![Bed Occupancy vs Readmissions](Images/readmissions_vs_bed_occupancy.png)
 
 Overcrowding may have led to **rushed discharges**, increasing readmissions.
 
 ### Other Findings
 
-![Readmission by Discharge Type](images/readmission_by_discharge.png)
+![Readmission by Discharge Type](Images/readmission_by_discharge.png)
 
 Patients discharged **home without follow-up care** were much more likely to be readmitted. 
 
-![Readmission by Diagnosis](images/readmissions_by_diagnosis.png)
+![Readmission by Diagnosis](Images/readmissions_by_diagnosis.png)
 
 **Respiratory & Infectious Diseases** have the highest readmission rates (**20.9% & 19.9%**).
 
@@ -65,7 +65,7 @@ The full ETL process consists of the following steps:
 - **Transform**: Processes the data, cleans it, and prepares it for loading.
 - **Load**: Loads the data into a PostgreSQL database.
 
-For the full pipeline documentation, check out the [Pipeline README](./pipeline/README.md).
+For the full pipeline documentation, check out the [Pipeline README](ETL%20Pipeline/README.md)
 
 ### Data Exploration & SQL Analysis
 Using **SQL**, I analyzed key factors influencing readmissions:
@@ -84,7 +84,13 @@ from admissions a
 group by a.admission_month 
 order by a.admission_month;
 ```
-[DB SQL code]()
+[DB SQL code](SQL%20Queries/Silverstone%20Queries.sql)
 
 ### Interactive Tableau Dashboard
 [Click here to view the full dashboard](https://public.tableau.com/views/SilverstoneMedicalCenterPatientReadmissionsOverview/FullDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
+
+```python
+
+```
