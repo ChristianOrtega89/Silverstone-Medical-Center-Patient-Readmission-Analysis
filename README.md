@@ -19,7 +19,7 @@ What factors contributed to the spike in hospital readmissions in July 2024, and
 ### Readmission Rates Over Time
 From our data, we observe a **33% spike** in hospital readmissions from June to July 2024.
 
-![Readmission Trend](images/readmission_trend.png)
+![Readmission Trend](Images/readmission_trend.png)
 
 Readmission rates increased from **18.1% to 24%** from June to July.
 
