@@ -65,7 +65,7 @@ The full ETL process consists of the following steps:
 - **Transform**: Processes the data, cleans it, and prepares it for loading.
 - **Load**: Loads the data into a PostgreSQL database.
 
-For the full pipeline documentation, check out the [Pipeline README](/ETL Pipeline/README.md).
+For the full pipeline documentation, check out the [Pipeline README](ETL%20Pipeline/README.md)
 
 ### Data Exploration & SQL Analysis
 Using **SQL**, I analyzed key factors influencing readmissions:
@@ -84,7 +84,7 @@ from admissions a
 group by a.admission_month 
 order by a.admission_month;
 ```
-[DB SQL code]()
+[DB SQL code](SQL%20Queries/Silverstone%20Queries)
 
 ### Interactive Tableau Dashboard
 [Click here to view the full dashboard](https://public.tableau.com/views/SilverstoneMedicalCenterPatientReadmissionsOverview/FullDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
